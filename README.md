@@ -43,9 +43,9 @@ When you create a new project, select <b>Choose a license</b>.
 
 If you already created a project, you can [add a license to a repository](https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository).
 
-Create a new file named _LICENSE_ or _LICENSE.md_. Then, click <b>Choose a license template</b> button to the right of the file name field.
-
-Choose a license to add to your project and click <b>Review and submit</b> button. When you commit, if your current branch is the default branch, then you should create a new branch.
+1. Create a new file named _LICENSE_ or _LICENSE.md_.
+1. Click <b>Choose a license template</b> button to the right of the file name field.
+1. Choose a license to add to your project and click <b>Review and submit</b> button. When you commit, if your current branch is the default branch, then you should create a new branch.
 
 ## Useful Plugins
 
