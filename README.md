@@ -31,6 +31,9 @@ Before you to contribute to an open-source project, please read through readme, 
 [Licensing a Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) allows the others to be free to use, change, and distribute the open source software. You can choose an open source license from [here](https://choosealicense.com/).
 
 * [MIT License](https://choosealicense.com/licenses/mit/)
+* [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+* [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
+* [ISC](https://choosealicense.com/licenses/isc/)
 
 ### Before Creating a New Project
 
