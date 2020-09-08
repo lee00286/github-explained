@@ -327,9 +327,67 @@ Insert [reference][1] to the [hyperlink][2]
 
 ## Table
 
-[Tables Generator](https://www.tablesgenerator.com/markdown_tables) will generate the table code for you. 
+You can use `- (Hyphen)` to separate the Header and cell. `| (Pipe)` is used to Separate columns. The first and last pipes can be skipped.
+
+You can use `: (Colon)` to adjust the alignment.
+
+* If a colon is inserted left, then column is left-aligned
+* If a colon is inserted right, then column is right-aligned
+* If colons are inserted both end, then column is center-aligned
+
+:point_up: [Tables Generator](https://www.tablesgenerator.com/markdown_tables) will generate the table code for you.
+
+**Example**
+
+```
+| Left-Aligned | Center-Aligned | Right-Aligned |
+| :----------- | :------------: | ------------: |
+| Content Cell | Content Cell | Content Cell |
+| Content Cell | Content Cell | Content Cell |
+```
+
+**Result**
+
+| Left-Aligned | Center-Aligned | Right-Aligned |
+| :----------- | :------------: | ------------: |
+| Content Cell | Content Cell | Content Cell |
+| Content Cell | Content Cell | Content Cell |
+
+---
 
 ## Emoji
+
+You can use `:EMOJICODE:` to insert emoji. You can find EMOJICODES from [EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/).
+
+**Example**
+
+```
+| Emoji | Emojicode | Usage |
+| ----- | ----- | ----- |
+| :sparkles: | `:sparkles:` | Emphasize |
+| :zap: | `:zap:` | Risk |
+| :exclamation: | `:exclamation:` | Important |
+| :question: | `:question:` | Question |
+| :memo: | `:memo:` | Note |
+| :point_up: | `:point_up:` | Remember |
+| :warning: | `:warning:` | Warning |
+| :boom: | `:boom:` | Danger |
+```
+
+**Result**
+
+| Emoji | Emojicode | Usage |
+| ----- | ----- | ----- |
+| :sparkles: | `:sparkles:` | Emphasize |
+| :zap: | `:zap:` | Risk |
+| :exclamation: | `:exclamation:` | Important |
+| :question: | `:question:` | Question |
+| :memo: | `:memo:` | Note |
+| :point_up: | `:point_up:` | Remember |
+| :warning: | `:warning:` | Warning |
+| :boom: | `:boom:` | Danger |
+
+---
 
 ## Badges
 
