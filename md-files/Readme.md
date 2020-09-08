@@ -2,6 +2,7 @@
 
 ## Table of Contents
 1. [Text](#text)
+1. [List](#list)
 1. [Table](#table)
 1. [Emoji](#emoji)
 1. [Badges](#badges)
@@ -62,7 +63,6 @@ You can cover the text with `` ` (Backtick)`` to insert the code or command.
 
 You can cover the text with ` ``` (Backticks)` to insert the code blocks.
 
-
 **Example**
 ````
 `Code or Command`
@@ -93,6 +93,44 @@ Line 3
 **Result**
 
 > Quoting Text
+
+---
+
+## List
+
+You can use `* (Asterisk)` before the text to insert unordered list.
+
+You can use `1. 2. 3.` before the text to insert ordered list. The ordered list will work with `1. 1. 1.` as well.
+
+If you insert tab before the asterisk or the number, then you can indent the list.
+
+**Example**
+
+````
+```
+* Unordered
+* List
+  1. Indented
+  2. List
+1. Ordered
+2. List
+  * Indented
+  * List
+```
+````
+
+**Result**
+
+```
+* Unordered
+* List
+  1. Indented
+  2. List
+1. Ordered
+2. List
+  * Indented
+  * List
+```
 
 ---
 
