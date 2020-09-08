@@ -8,7 +8,8 @@
 
 ## Build Project
 
-[Build the Project Locally](/local-project.md)
+[Fork and Contribute](/build-project/fork-and-contribute.md)
+[Sync the Fork](/build-project/sync.md)
 
 ## md Files
 
