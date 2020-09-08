@@ -56,7 +56,7 @@ Open Terminal and change the current working directory to your local project.
 
 Type `git fetch upstream` and `git checkout master`. 
 
-Type `git reset --hard upstream/master` and `git push origin master --force`. Then, your forked master branch and local clone will be overwritted by the upstream.
+Type `git reset --hard upstream/master` to reset your local clone and `git push origin master --force` to reset your forked branch. Then, your forked master branch and local clone will be overwritted by the upstream.
 
 ```
 $ git remote add upstream /url/to/original/repo
