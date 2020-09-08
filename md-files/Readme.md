@@ -22,7 +22,7 @@
 | {} | Curly Braces |
 | [] | Square Brackets |
 | () | Parentheses |
-| # | Hash Mark |
+| # | Hash |
 | + | Plus Sign |
 | - | Minus Sign (Hyphen) |
 | . | Dot |
@@ -34,6 +34,7 @@
 1. [Insert Text Decoration](#insert-text-decoration)
 1. [Insert Code](#insert-code)
 1. [Insert Embeded Code](#insert-embeded-code)
+1. [Insert Highlighted Code](#insert-highlighted-code)
 1. [Insert Quotation](#insert-quotation)
 
 ### Insert Heading
@@ -53,19 +54,24 @@ You can use `# (Hash)` before the text to insert heading. The smaller number of 
 
 ### Insert Text Decoration
 
-#### Emphasize Text
-
 You can cover the text with `* (Asterisk)` or `_ (Underscore)` to italicize the text.
 
 You can cover the text with `** (Asterisks)` or `__ (Underscores)` to bold the text.
+
+You can cover the text with `~~ (Tilde)` to insert strike-throughs.
 
 **Example**
 
 ```
 *Italicize text with asterisk*
+
 _Italicize text with underscore_
+
 **Bold text with asterisks**
+
 __Bold text with asterisks__
+
+~~Strike-Through with tlides~~
 ```
 
 **Result**
@@ -77,6 +83,8 @@ _Italicize text with underscore_
 **Bold text with asterisks**
 
 __Bold text with asterisks__
+
+~~Strike-Through with tlides~~
 
 ### Insert Code
 
@@ -110,7 +118,7 @@ Line 3
 
 You can cover the code with ` `` ` to insert code inside the code.
 
-You can cover the code block with `` ` `` or ` ```` ` to insert the code block inside the code block.
+You can cover the code block with `` ` `` or ` ```` ` to insert the code block inside the code block. If the largest number of backticks used is four, then you should use five backticks.
 
 Backtick functions as a text if only one of them is used.
 
@@ -141,6 +149,48 @@ Block
 ```
 ````
 `
+
+### Insert Highlighted Code
+
+You can insert the name of language to highlight the syntax in the code.
+
+**Example**
+
+````
+```javascript
+function highlightSyntax(arg) {
+  if (arg) {
+  } else {
+  }
+}
+```
+
+```python
+def highlightSyntax():
+  if (arg):
+    return 1
+   else:
+    return 0
+```
+````
+
+**Result**
+
+```javascript
+function highlightSyntax(arg) {
+  if (arg) {
+  } else {
+  }
+}
+```
+
+```python
+def highlightSyntax():
+  if (arg):
+    return 1
+   else:
+    return 0
+```
 
 ### Insert Quotation
 
@@ -201,10 +251,10 @@ You can use `[] (Square Brackets)` before the text to insert task list. If you i
 
 **Example**
 
-'''
+```
 - [x] Completed Task
 - [ ] Incomplete Task
-'''
+```
 
 **Result**
 
@@ -217,10 +267,11 @@ You can use `[] (Square Brackets)` before the text to insert task list. If you i
 
 1. [Insert Link](#insert-link)
 1. [Insert Image](#insert-image)
+3. [Insert Reference](#insert-reference)
 
 ### Insert Link
 
-You can use `[TEXT](URL)` to insert link to the text. Replace TEXT with any text and URL with link you want. You have three types of hyperlink:
+You can use `[TEXT](URL)` to insert link to the text. Replace TEXT with your own text and URL with link you want. You have three types of hyperlink:
 
 * Heading inside markdown file
   * Replace URL with hash and a title like `#link`
@@ -251,6 +302,26 @@ You can use `[TEXT](URL)` to insert link to the text. Replace TEXT with any text
 ### Insert Image
 
 You can use `![TEXT](URL)` to insert image. Replace TEXT with any text and URL with link of the image.
+
+### Insert Reference
+
+You can use `[TEXT][1]` to apply reference. Replace TEXT with your own text.
+
+**Example**
+
+```
+Insert [reference][1] to the [hyperlink][2]
+
+[1]: #insert-reference
+[2]: /md-files/Readme.md
+```
+
+**Result**
+
+Insert [reference][1] to the [hyperlink][2]
+
+[1]: #insert-reference
+[2]: /md-files/Readme.md
 
 ---
 
