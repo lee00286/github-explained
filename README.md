@@ -8,9 +8,8 @@
 
 ## Build Project
 
-[Fork and Contribute](/build-project/fork-and-contribute.md)
-
-[Sync the Fork](/build-project/sync.md)
+* [Fork and Contribute](/build-project/fork-and-contribute.md)
+* [Sync and Reset the Fork](/build-project/sync-and-reset.md)
 
 ## md Files
 
