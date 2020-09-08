@@ -1,7 +1,7 @@
 # Readme
 
 ## Table of Contents
-1. [Mardown Character Syntax](#markdown-character-syntax)
+1. [Character Syntax](#character-syntax)
 1. [Text](#text)
 1. [List](#list)
 1. [Hyperlink](#hyperlink)
@@ -11,7 +11,7 @@
 
 ---
 
-## Mardown Character Syntax
+## Character Syntax
 
 | Character | Syntax |
 | --- | --- |
@@ -33,6 +33,7 @@
 1. [Insert Heading](#insert-heading)
 1. [Insert Text Decoration](#insert-text-decoration)
 1. [Insert Code](#insert-code)
+1. [Insert Embeded Code](#insert-embeded-code)
 1. [Insert Quotation](#insert-quotation)
 
 ### Insert Heading
@@ -84,6 +85,7 @@ You can cover the text with `` ` (Backtick)`` to insert the code or command.
 You can cover the text with ` ``` (Backticks)` to insert the code blocks.
 
 **Example**
+
 ````
 `Code or Command`
 
@@ -103,6 +105,42 @@ Line 1
 Line 2
 Line 3
 ``` 
+
+### Insert Embeded Code
+
+You can cover the code with ` `` ` to insert code inside the code.
+
+You can cover the code block with `` ` `` or ` ```` ` to insert the code block inside the code block.
+
+Backtick functions as a text if only one of them is used.
+
+**Example**
+
+`````
+`` `Embeded Code` ``
+
+````
+```
+Embeded
+Code
+Block
+```
+````
+
+`
+`````
+
+**Result**
+
+`` `Embeded Code` ``
+````
+```
+Embeded
+Code
+Block
+```
+````
+`
 
 ### Insert Quotation
 
@@ -119,6 +157,11 @@ You can use `> (Right Angle Bracket)` before the text to insert quotation.
 ---
 
 ## List
+
+1. [Ordered and Unordered List](#ordered-and-unordered-list)
+1. [Task List](#task-list)
+
+### Ordered and Unordered List
 
 You can use `* (Asterisk)` before the text to insert unordered list.
 
@@ -152,6 +195,22 @@ If you insert tab before the asterisk or the number, then you can indent the lis
   * Indented
   * List
 
+### Task List
+
+You can use `[] (Square Brackets)` before the text to insert task list. If you insert `x` between the sqare brackets, then the box will be filled with a tick. The list works if hyphen is inserted before the squared brackets.
+
+**Example**
+
+'''
+- [x] Completed Task
+- [ ] Incomplete Task
+'''
+
+**Result**
+
+- [x] Completed Task
+- [ ] Incomplete Task
+
 ---
 
 ## Hyperlink
@@ -166,6 +225,7 @@ You can use `[TEXT](URL)` to insert link to the text. Replace TEXT with any text
 * Heading inside markdown file
   * Replace URL with hash and a title like `#link`
   * If a title has space in between, then replace it with a dash like `#insert-link`
+  * If a title has capitalized letter, then replace it with lowercase
   * The title shouldn't have any special text
 * File inside repository
   * Replace URL with a directory like `/md-files/Readme.md`
