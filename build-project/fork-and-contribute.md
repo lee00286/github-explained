@@ -48,7 +48,7 @@ $ git checkout -b lee00286/improve-contribution-file-1234
 
 ## How to Build Local Project
 
-### Creating a Local Clone
+### Create a Local Clone
 
 [Creating a Local Clone](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#step-2-create-a-local-clone-of-your-fork) allows you to get a copy of the project running locally on your computer.
 
@@ -71,6 +71,34 @@ $ git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME
 > Unpacking objects: 100% (10/10), done.
 ```
 
+### Add Upstream
+
+[Configuring a Remote for a Fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork) allows you the sync changes you make in a fork with the original repository.
+
+Open Terminal and type `git remote -v` to list the current configured remote repository for your fork. Two lines will be printed like the lines below.
+
+```
+$ git remote -v
+> origin  https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (fetch)
+> origin  https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (push)
+```
+
+Add a the owner's repository that will be synced with the fork.
+
+```
+$ git remote add upstream https://github.com/OWNER-USERNAME/REPOSITORY-NAME.git
+```
+
+Type `git remote -v` to verify the new upstream repository.
+
+```
+$ git remote -v
+> origin    https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (fetch)
+> origin    https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (push)
+> upstream  https://github.com/OWNER-USERNAME/REPOSITORY-NAME.git (fetch)
+> upstream  https://github.com/OWNER-USERNAME/REPOSITORY-NAME.git (push)
+```
+
 ## How to Contribute
 
 You are now ready for the contribution! Feel free to make changes in your fork of this project.
@@ -81,7 +109,7 @@ After you've made any changes, you need to [create a pull request from a fork](h
 
 1. Go to Compare Changes `https://github.com/YOUR-USERNAME/REPOSITORY-NAME/compare/` page
 1. Select **compare across forks**
-1. In the **base repository** drop-down menu, select `MASTER-USERNAME/REPOSITORY-NAME`
+1. In the **base repository** drop-down menu, select `OWNER-USERNAME/REPOSITORY-NAME`
 1. In the **head repository** drop-down menu, select your fork `YOUR-USERNAME/REPOSITORY-NAME`
 1. Click **Create Pull Request**
 
