@@ -28,9 +28,21 @@ Before you to contribute to an open-source project, please read through readme, 
 
 ### License a Repository
 
-[Licensing a Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) allows the others to be free to use, change, and distribute the open source software.
+[Licensing a Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) allows the others to be free to use, change, and distribute the open source software. You can choose an open source license from [here](https://choosealicense.com/).
 
-* MIT License
+* [MIT License](https://choosealicense.com/licenses/mit/)
+
+### Before Creating a New Project
+
+When you create a new project, select <b>Choose a license</b>.
+
+### After Created a New Project
+
+If you already created a project, you can [add a license to a repository](https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository).
+
+Create a new file named _LICENSE_ or _LICENSE.md_. Then, click <b>Choose a license template</b> button to the right of the file name field.
+
+Choose a license to add to your project and click <b>Review and submit</b> button. When you commit, if your current branch is the default branch, then you should create a new branch.
 
 ## Useful Plugins
 
