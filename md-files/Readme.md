@@ -1,19 +1,39 @@
 # Readme
 
 ## Table of Contents
+1. [Mardown Character Syntax](#markdown-character-syntax)
 1. [Text](#text)
 1. [List](#list)
+1. [Hyperlink](#hyperlink)
 1. [Table](#table)
 1. [Emoji](#emoji)
 1. [Badges](#badges)
 
 ---
 
+## Mardown Character Syntax
+
+| Character | Syntax |
+| --- | --- |
+| \ | Backslash |
+| ` | Backtick |
+| * | Asterisk |
+| _ | Underscore |
+| {} | Curly Braces |
+| [] | Square Brackets |
+| () | Parentheses |
+| # | Hash Mark |
+| + | Plus Sign |
+| - | Minus Sign (Hyphen) |
+| . | Dot |
+| ! | Exclamation Mark |
+
 ## Text
 
 1. [Insert Heading](#insert-heading)
 1. [Insert Text Decoration](#insert-text-decoration)
 1. [Insert Code](#insert-code)
+1. [Insert Quotation](#insert-quotation)
 
 ### Insert Heading
 
@@ -84,7 +104,9 @@ Line 2
 Line 3
 ``` 
 
-### Quotation
+### Insert Quotation
+
+You can use `> (Right Angle Bracket)` before the text to insert quotation.
 
 **Example**
 
@@ -100,7 +122,7 @@ Line 3
 
 You can use `* (Asterisk)` before the text to insert unordered list.
 
-You can use `1. 2. 3.` before the text to insert ordered list. The ordered list will work with `1. 1. 1.` as well.
+You can use `1. 2. 3.` before the text to insert ordered list. Instead, `1. 1. 1.` works as well.
 
 If you insert tab before the asterisk or the number, then you can indent the list.
 
@@ -121,16 +143,54 @@ If you insert tab before the asterisk or the number, then you can indent the lis
 
 **Result**
 
-```
 * Unordered
 * List
   1. Indented
-  2. List
+  1. List
 1. Ordered
 2. List
   * Indented
   * List
+
+---
+
+## Hyperlink
+
+1. [Insert Link](#insert-link)
+1. [Insert Image](#insert-image)
+
+### Insert Link
+
+You can use `[TEXT](URL)` to insert link to the text. Replace TEXT with any text and URL with link you want. You have three types of hyperlink:
+
+* Heading inside markdown file
+  * Replace URL with hash and a title like `#link`
+  * If a title has space in between, then replace it with a dash like `#insert-link`
+  * The title shouldn't have any special text
+* File inside repository
+  * Replace URL with a directory like `/md-files/Readme.md`
+* Any website
+  * Replace URL with a link
+
+**Example**
+
 ```
+[Hyperlink One](#insert-link)
+[Hyperlink Two](/README.md)
+[Hyperlink Three](https://lee00286.github.io/portfolio)
+```
+
+**Result**
+
+[Hyperlink One](#insert-link)
+
+[Hyperlink Two](/README.md)
+
+[Hyperlink Three](https://lee00286.github.io/portfolio)
+
+### Insert Image
+
+You can use `![TEXT](URL)` to insert image. Replace TEXT with any text and URL with link of the image.
 
 ---
 
