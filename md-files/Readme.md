@@ -28,6 +28,8 @@
 | . | Dot |
 | ! | Exclamation Mark |
 
+---
+
 ## Text
 
 1. [Insert Heading](#insert-heading)
