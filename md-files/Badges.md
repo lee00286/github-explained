@@ -29,6 +29,12 @@ https://img.shields.io/badge/FIRST-SECONDARY-%23HEX-COLOR.svg?&style=for-the-bad
 
 ## Blog
 
+* [Blogger](#blogger)
+* [Dev.to](#devto)
+* [Medium](#medium)
+* [RSS](#rss)
+* [Tech Blog](#tech-blog)
+
 ### Blogger
 
 [![BLOGGER](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/)
@@ -37,7 +43,7 @@ https://img.shields.io/badge/FIRST-SECONDARY-%23HEX-COLOR.svg?&style=for-the-bad
 [![BLOGGER](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](BLOGGER-LINK)
 ```
 
-### Dev.to
+### DevTo
 
 [![DEV.TO](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/)
 
@@ -72,6 +78,12 @@ https://img.shields.io/badge/FIRST-SECONDARY-%23HEX-COLOR.svg?&style=for-the-bad
 ---
 
 ## Contact
+
+* [Discord](#discord)
+* [Gitter](#gitter)
+* [Gmail](#gmail)
+* [Messenger](#messenger)
+* [WhatsApp](#whatsapp)
 
 ### Discord
 
@@ -140,6 +152,9 @@ Commit badge informs the last commit in your project to people who are using you
 
 ## Contribution
 
+* [Contributors](#contributors)
+* [Welcome Contributions](#welcome-contributions)
+
 ### Contributors
 
 Contributors badge shows how many number of contributors in the project.
@@ -163,6 +178,14 @@ Welcome Contributions badge encourages people to contribute to your project, by 
 ---
 
 ## Donate
+
+* [Donate](#donate)
+* [Flattr](#flattr)
+* [Gittip](#gittip)
+* [Gratipay](#gratipay)
+* [PayPal](#paypal)
+
+### Donate
 
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/lee00286)
 [![Donate](https://img.shields.io/badge/$-support-12a0df.svg?style=flat)](https://www.paypal.com/cgi-bin/)
@@ -210,7 +233,16 @@ Welcome Contributions badge encourages people to contribute to your project, by 
 
 The list of license badges can be found [here](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba) and [here](https://github.com/dwyl/repo-badges).
 
-### Apache 2.0 License
+* [Apache](#apache)
+* [GNU](#gnu)
+* [IBM](#ibm)
+* [ISC License](#isc-license)
+* [MIT License](#mit-license)
+* [Mozilla](#mozilla)
+
+### Apache
+
+#### Apache 2.0 License
 
 [![Apache License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -252,7 +284,9 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 [![FDLv1.3 License](https://img.shields.io/badge/License-FDL%20v1.3-blue.svg)](https://www.gnu.org/licenses/fdl-1.3)
 ```
 
-### IBM Public License Version 1.0
+### IBM
+
+#### IBM Public License Version 1.0
 
 [![IPL License](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
@@ -260,7 +294,7 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 [![IPL License](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 ```
 
-### ISC License (ISC)
+### ISC License
 
 [![ISC License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
@@ -276,7 +310,9 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ```
 
-### Mozilla Public License 2.0
+### Mozilla
+
+#### Mozilla Public License 2.0
 
 [![MPL License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
@@ -287,6 +323,11 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 ---
 
 ## Project Status
+
+* [Code Climate](#code-climate)
+* [CodeCov.io](#codecov)
+* [Style CI](#style-ci)
+* [Travis CI](#travis-ci)
 
 ### [Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges#maintainability-restructured)
 
@@ -300,7 +341,7 @@ If your project is synced with Code Climate, then get your repository id. Replac
 [![Test Coverage](https://api.codeclimate.com/v1/badges/REPO-ID/test_coverage)](https://codeclimate.com/github/USERNAME/REPO-NAME/test_coverage)
 ```
 
-### [CodeCov.io](https://codecov.io) (Code Coverage)
+### [CodeCov](https://codecov.io)
 
 [![CodeCov](https://codecov.io/gh/tterb/yt2mp3/branch/master/graph/badge.svg)](https://codecov.io/gh/tterb/yt2mp3)
 
@@ -353,6 +394,14 @@ If you are using Synk, you can have a dependency security vulnberability checkin
 ---
 
 ## Social
+
+* [Facebook](#facebook)
+* [GitHub](#github)
+* [Instagram](#instagram)
+* [LinkedIn](#linkedin)
+* [Reddit](#reddit)
+* [Tiktok](#tiktok)
+* [Twitter](#twitter)
 
 ### Facebook
 
@@ -420,10 +469,10 @@ If you are using Synk, you can have a dependency security vulnberability checkin
 
 ### Twitter
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/Twitter)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Twitter)
 
 ```
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](TWITTER-LINK)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](TWITTER-LINK)
 ```
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()
