@@ -3,12 +3,15 @@
 ## Table of Contents
 1. [Blog](#blog)
 1. [Contact](#contact)
+1. [Dependencies](#dependencies)
+1. [Documents](#documents)
 1. [Donate](#donate)
 1. [License](#license)
 1. [Project Contribution](#project-contribution)
 1. [Project Status](#project-status)
 1. [Security](#security)
 1. [Social](#social)
+1. [Version](#version)
 
 ### Shields.io
 
@@ -129,6 +132,52 @@ Replace `GITTER-ID` and `GITTER-CHAT` with your Gitter ID and chat ID.
 
 ```
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](WHATSAPP-ID)
+```
+
+---
+
+## Dependencies
+
+* [David](#david)
+* [Pyup](#pyup)
+
+### David
+
+[![David](https://david-dm.org/lee00286/github-info-packet.svg)](https://david-dm.org/)
+
+```
+[![David](https://david-dm.org/USERNAME/REPO-NAME.svg)](https://david-dm.org/USERNAME/REPO-NAME)
+```
+
+### Pyup
+
+[![PyUp](https://pyup.io/repos/github/lee00286/github-info-packet/shield.svg)](https://pyup.io/)
+
+```
+[![PyUp](https://pyup.io/repos/github/USERNAME/REPO-NAME/shield.svg)](https://pyup.io/account/repos/github/USERNAME/REPO-NAME/)
+```
+
+---
+
+## Documents
+
+* [Docs Passing](#docs-passing)
+* [Code of Conduct](#code-of-conduct)
+
+### Docs Passing
+
+[![Docs Passing](https://readthedocs.org/projects/lee00286/badge/?version=latest)]()
+
+```
+[![Docs Passing](https://readthedocs.org/projects/USERNAME/badge/?version=latest)]()
+```
+
+### Code of Conduct
+
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat)]()
+
+```
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat)](CODE_OF_CONDUCT.md)
 ```
 
 ---
@@ -286,7 +335,7 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 * [Issues](#issues)
 * [Pull Requests](#pull-requests)
 
-## Commit
+### Commit
 
 Commit badge informs the last commit in your project to people who are using your repository.
 
@@ -300,12 +349,10 @@ Commit badge informs the last commit in your project to people who are using you
 [![Commits Since](https://img.shields.io/github/commits-since/USERNAME/REPO-NAME/v1.2.0.svg)]()
 ```
 
-## Contribution
+### Contribution
 
 * [Contributors](#contributors)
 * [Welcome Contributions](#welcome-contributions)
-
-### Contribution
 
 #### Contributors
 
@@ -520,4 +567,16 @@ If you are using Synk, you can have a dependency security vulnberability checkin
 ```
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/USERNAME/REPO-NAME.svg?style=social)](https://twitter.com/compose/tweet)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Twitter.svg?style=social)](https://twitter.com/Twitter)
+```
+
+## Version
+
+Version badge informs the latest version of your repository.
+
+[![Version](https://badge.fury.io/gh/lee00286%2Fgithub-info-packet.svg)](https://badge.fury.io/gh/)
+[![Release](https://img.shields.io/github/release/lee00286/github-info-packet.svg?style=flat)]()
+
+```
+[![Version](https://badge.fury.io/gh/USERNAME%2FREPO-NAME.svg)](https://badge.fury.io/gh/)
+[![Release](https://img.shields.io/github/release/USERNAME/REPO-NAME.svg?style=flat)]()
 ```
