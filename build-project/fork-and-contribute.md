@@ -99,6 +99,35 @@ $ git remote -v
 > upstream  https://github.com/OWNER-USERNAME/REPOSITORY-NAME.git (push)
 ```
 
+### Remove Upstream
+
+Removing Upstream allows you to remove the upstream if it has already added.
+
+Open Terminal and type `git remote -v` to list the current configured remote repository for your fork. Four lines will be printed like the lines below.
+
+```
+$ git remote -v
+> origin    https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (fetch)
+> origin    https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (push)
+> upstream  https://github.com/OWNER-USERNAME/REPOSITORY-NAME.git (fetch)
+> upstream  https://github.com/OWNER-USERNAME/REPOSITORY-NAME.git (push)
+```
+
+Remove a the owner's repository that will be synced with the fork.
+
+```
+$ git remote rm upstream
+```
+
+
+Type `git remote -v` to verify the removed upstream repository.
+
+```
+$ git remote -v
+> origin    https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (fetch)
+> origin    https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (push)
+```
+
 ## How to Contribute
 
 You are now ready for the contribution! Feel free to make changes in your fork of this project.
