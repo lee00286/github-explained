@@ -3,10 +3,9 @@
 ## Table of Contents
 1. [Blog](#blog)
 1. [Contact](#contact)
-1. [Commit](#commit)
-1. [Contribution](#contribution)
 1. [Donate](#donate)
 1. [License](#license)
+1. [Project Contribution](#project-contribution)
 1. [Project Status](#project-status)
 1. [Security](#security)
 1. [Social](#social)
@@ -130,49 +129,6 @@ Replace `GITTER-ID` and `GITTER-CHAT` with your Gitter ID and chat ID.
 
 ```
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](WHATSAPP-ID)
-```
-
----
-
-## Commit
-
-Commit badge informs the last commit in your project to people who are using your repository.
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/lee00286/github-info-packet.svg?style=flat)]()
-[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]()
-[![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]()
-
-```
-[![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPO-NAME.svg?style=flat)]()
-[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/USERNAME/REPO-NAME.svg?style=flat)]()
-[![GitHub commits since](https://img.shields.io/github/commits-since/USERNAME/REPO-NAME/v1.2.0.svg)]()
-```
-
----
-
-## Contribution
-
-* [Contributors](#contributors)
-* [Welcome Contributions](#welcome-contributions)
-
-### Contributors
-
-Contributors badge shows how many number of contributors in the project.
-
-[![Contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat)]()
-
-```
-[![Contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat)](https://github.com/dwyl/esta/issues)
-```
-
-### Welcome Contributions
-
-Welcome Contributions badge encourages people to contribute to your project, by reminding them that you welcome their input use this badge.
-
-[![Welcome Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-
-```
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ```
 
 ---
@@ -318,6 +274,83 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 
 ```
 [![MPL License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+```
+
+---
+
+## Project Contribution
+
+* [Commit](#commit)
+* [Contribution](#contribution)
+* [Downloads](#downloads)
+* [Issues](#issues)
+* [Pull Requests](#pull-requests)
+
+## Commit
+
+Commit badge informs the last commit in your project to people who are using your repository.
+
+[![Last Commit](https://img.shields.io/github/last-commit/lee00286/github-info-packet.svg?style=flat)]()
+[![Commit Activity](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]()
+[![Commits Since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]()
+
+```
+[![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPO-NAME.svg?style=flat)]()
+[![Commit Activity](https://img.shields.io/github/commit-activity/y/USERNAME/REPO-NAME.svg?style=flat)]()
+[![Commits Since](https://img.shields.io/github/commits-since/USERNAME/REPO-NAME/v1.2.0.svg)]()
+```
+
+## Contribution
+
+* [Contributors](#contributors)
+* [Welcome Contributions](#welcome-contributions)
+
+### Contribution
+
+#### Contributors
+
+Contributors badge shows how many number of contributors in the project.
+
+[![Contributors](https://img.shields.io/github/contributors/lee00286/github-info-packet.svg?style=flat)](https://github.com/lee00286/github-info-packet/issues)
+
+```
+[![Contributors](https://img.shields.io/github/contributors/USERNAME/REPO-NAME.svg?style=flat)](https://github.com/USERNAME/REPO-NAME/issues)
+```
+
+#### Welcome Contributions
+
+Welcome Contributions badge encourages people to contribute to your project, by reminding them that you welcome their input use this badge.
+
+[![Welcome Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+```
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+```
+
+### Downloads
+
+[![Downloads](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()
+
+```
+[![Downloads](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()
+```
+
+### Issues
+
+[![Issues](https://img.shields.io/github/issues-raw/badges/shields.svg?maxAge=25000)](https://github.com/badges/shields/issues)
+
+```
+[![Issues](https://img.shields.io/github/issues-raw/USERNAME/REPO-NAME.svg?maxAge=25000)](https://github.com/USERNAME/REPO-NAME/issues)
+```
+
+### Pull Requests
+
+[![Pull Requests Open](https://img.shields.io/github/issues-pr/USERNAME/REPO-NAME.svg?style=flat)](https://github.com/lee00286/github-info-packet/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
+```
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)](https://github.com/USERNAME/REPO-NAME/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 ```
 
 ---
