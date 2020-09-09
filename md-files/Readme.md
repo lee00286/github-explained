@@ -388,9 +388,3 @@ You can use `:EMOJICODE:` to insert emoji. You can find EMOJICODES from [EMOJI C
 | :point_up: | `:point_up:` | Remember |
 | :warning: | `:warning:` | Warning |
 | :boom: | `:boom:` | Danger |
-
----
-
-## Badges
-
-Collection of badges are collected [here](/md-files/Badges.md)
