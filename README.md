@@ -21,6 +21,7 @@ Before you to contribute to an open-source project, please read through readme, 
 * [Readme.md](/md-files/Readme.md)
 * Contribution.md
 * Code-of-conduct.md
+* [Badges](/md-files/Badges.md)
 
 ## Action and Workflows
 
