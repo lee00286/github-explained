@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Build Project](#build-project)
-1. [.md files](#md-files)
+1. [Markdown Files](#md-files)
 1. [Action and Workflows](#action-and-workflows)
 1. [License](#license)
 1. [Useful Plugins](#useful-plugins)
@@ -16,7 +16,7 @@ Before you to contribute to an open-source project, please read through readme, 
 * [Fork and Contribute](/build-project/fork-and-contribute.md)
 * [Sync and Reset the Fork](/build-project/sync-and-reset.md)
 
-## md Files
+## Markdown Files
 
 * [Readme.md](/md-files/Readme.md)
 * Contribution.md
