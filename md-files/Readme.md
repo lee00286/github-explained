@@ -393,4 +393,4 @@ You can use `:EMOJICODE:` to insert emoji. You can find EMOJICODES from [EMOJI C
 
 ## Badges
 
-Collection of badges are collected [here](https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8)
+Collection of badges are collected [here](/md-files/Badges.md)
