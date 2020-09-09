@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Build Project](#build-project)
-1. [Markdown Files](#md-files)
+1. [Markdown Files](#markdown-files)
 1. [Action and Workflows](#action-and-workflows)
 1. [License](#license)
 1. [Useful Plugins](#useful-plugins)
