@@ -1,6 +1,7 @@
 # Badges
 
 ## Table of Contents
+1. [Commit](#commit)
 1. [Contribution](#contribution)
 1. [Donate](#donate)
 1. [License](#license)
@@ -11,6 +12,22 @@
 ### Shields.io
 
 [Shields.io](https://shields.io/) is an open source project which suggests badges for your project. 
+
+---
+
+## Commit
+
+Commit badge informs the last commit in your project to people who are using your repository.
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/lee00286/github-info-packet.svg?style=flat)]()
+[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]()
+[![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]()
+
+```
+[![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPO-NAME.svg?style=flat)]()
+[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/USERNAME/REPO-NAME.svg?style=flat)]()
+[![GitHub commits since](https://img.shields.io/github/commits-since/USERNAME/REPO-NAME/v1.2.0.svg)]()
+```
 
 ---
 
@@ -164,16 +181,24 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 
 ## Project Status
 
-### [Travis CI](https://travis-ci.org/)
+### [Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges#maintainability-restructured)
 
-If your project is synced with Travis CI, then click your *build status* badge. After you select *Markdown* from the drop-down menu, you can copy markdown code.
+If your project is synced with Code Climate, then get your repository id. Replace `REPO-ID` from the line below with your repository id.
 
-If you can't find the markdown code, then copy the line below and replace `ORG-OR-USERNAME` and `REPO-NAME` with yours.
-
-[![Build Status](https://travis-ci.org/ORG-or-USERNAME/REPO-NAME.png?branch=master)](https://travis-ci.org/ORG-OR-USERNAME/REPO-NAME)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/codeclimate/codeclimate/test_coverage)
 
 ```
-[![Build Status](https://travis-ci.org/ORG-or-USERNAME/REPO-NAME.png?branch=master)](https://travis-ci.org/ORG-OR-USERNAME/REPO-NAME)
+[![Maintainability](https://api.codeclimate.com/v1/badges/REPO-ID/maintainability)](https://codeclimate.com/github/USERNAME/REPO-NAME/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/REPO-ID/test_coverage)](https://codeclimate.com/github/USERNAME/REPO-NAME/test_coverage)
+```
+
+### CodeCov.io (Code Coverage)
+
+[![CodeCov](https://codecov.io/gh/tterb/yt2mp3/branch/master/graph/badge.svg)](https://codecov.io/gh/tterb/yt2mp3)
+
+```
+[![CodeCov](https://codecov.io/gh/USERNAME/REPO-NAME/branch/master/graph/badge.svg)](https://codecov.io/gh/USERNAME/REPO-NAME)
 ```
 
 ### [Style CI](https://docs.styleci.io/badges)
@@ -188,6 +213,20 @@ If your project is synced with Style CI, then get your repository id. Replace `R
 [![Style CI Normal](https://github.styleci.io/repos/REPO-ID/shield)](https://styleci.io/repos/REPO-ID)
 [![Style CI Plastic](https://github.styleci.io/repos/REPO-ID/shield?style=plastic)](https://styleci.io/repos/REPO-ID)
 [![Style CI Flat for Branch 6.x](https://github.styleci.io/repos/REPO-ID/shield?style=flat&branch=6.x)](https://styleci.io/repos/REPO-ID)
+```
+
+### [Travis CI](https://travis-ci.org/)
+
+If your project is synced with Travis CI, then click your *build status* badge. After you select *Markdown* from the drop-down menu, you can copy markdown code.
+
+If you can't find the markdown code, then copy the line below and replace `USERNAME` and `REPO-NAME` with yours.
+
+[![Travis CI](https://travis-ci.org/ORG-or-USERNAME/REPO-NAME.png?branch=master)](https://travis-ci.org/ORG-OR-USERNAME/REPO-NAME)
+[![Travis CI with Logo](https://img.shields.io/travis/USERNAME/REPO-NAME/master.svg?logo=travis)](https://travis-ci.org/USERNAME/REPO-NAME)
+
+```
+[![Travis CI](https://travis-ci.org/USERNAME/REPO-NAME.png?branch=master)](https://travis-ci.org/USERNAME/REPO-NAME)
+[![Travis CI without Logo](https://img.shields.io/travis/USERNAME/REPO-NAME/master.svg?logo=travis)](https://travis-ci.org/USERNAME/REPO-NAME)
 ```
 
 ---
