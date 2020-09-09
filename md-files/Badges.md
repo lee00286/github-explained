@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Blog](#blog)
-1. [Chat](#chat)
+1. [Contact](#contact)
 1. [Commit](#commit)
 1. [Contribution](#contribution)
 1. [Donate](#donate)
@@ -13,7 +13,17 @@
 
 ### Shields.io
 
-[Shields.io](https://shields.io/) is an open source project which suggests badges for your project. 
+[Shields.io](https://shields.io/) is an open source project which suggests badges for your project.
+
+### DIY Badges
+
+You can make your own badges by modifying the line below. If you want a small badge, then remove `SECONDARY`.
+
+[Simple Icons](https://simpleicons.org/) will help you to replace `ICON` and `HEX-COLOR`.
+
+```
+https://img.shields.io/badge/FIRST-SECONDARY-%23HEX-COLOR.svg?&style=for-the-badge&logo=ICON&logoColor=white"
+```
 
 ---
 
@@ -61,7 +71,7 @@
 
 ---
 
-## Chat
+## Contact
 
 ### Discord
 
@@ -84,6 +94,30 @@ Replace `GITTER-ID` and `GITTER-CHAT` with your Gitter ID and chat ID.
 [![Gitter](https://img.shields.io/gitter/room/GITTER-ID/GITTER-CHAT.svg?style=flat)]()
 [![Gitter](https://img.shields.io/gitter/room/GITTER-ID/GITTER-CHAT.svg?style=flat-square)](https://gitter.im/GITTER-ID/GITTER-CHAT)
 
+```
+
+### Gmail
+
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
+
+```
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](GMAIL-ADDRESS)
+```
+
+### Messenger
+
+[![Messenger](https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white)]()
+
+```
+[![Messenger](https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white)](MESSENGER-ID)
+```
+
+### WhatsApp
+
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)]()
+
+```
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](WHATSAPP-ID)
 ```
 
 ---
