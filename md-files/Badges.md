@@ -1,6 +1,7 @@
 # Badges
 
 ## Table of Contents
+1. [Blog](#blog)
 1. [Chat](#chat)
 1. [Commit](#commit)
 1. [Contribution](#contribution)
@@ -8,11 +9,55 @@
 1. [License](#license)
 1. [Project Status](#project-status)
 1. [Security](#security)
-1. [Social Button](#social-button)
+1. [Social](#social)
 
 ### Shields.io
 
 [Shields.io](https://shields.io/) is an open source project which suggests badges for your project. 
+
+---
+
+## Blog
+
+### Blogger
+
+[![BLOGGER](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/)
+
+```
+[![BLOGGER](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](BLOGGER-LINK)
+```
+
+### Dev.to
+
+[![DEV.TO](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/)
+
+```
+[![DEV.TO](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](DEV.TO-LINK)
+```
+
+### Medium
+
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+
+```
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](MEDIUM-LINK)
+```
+
+### RSS
+
+[![RSS](https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)]()
+
+```
+[![RSS](https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](RSS-LINK)
+```
+
+### Tech Blog
+
+[![Tech Blog](https://camo.githubusercontent.com/5a9f2cced23bbf508cc6d5eadf0f5f7fa37d55db/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d54656368253230626c6f672d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c696e6b3d68747470733a2f2f616c73746e323436382e6769746875622e696f2f)]()
+
+```
+[![Tech Blog](https://camo.githubusercontent.com/5a9f2cced23bbf508cc6d5eadf0f5f7fa37d55db/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d54656368253230626c6f672d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c696e6b3d68747470733a2f2f616c73746e323436382e6769746875622e696f2f)]()
+```
 
 ---
 
@@ -273,7 +318,15 @@ If you are using Synk, you can have a dependency security vulnberability checkin
 
 ---
 
-## Social Button
+## Social
+
+### Facebook
+
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/facebook/)
+
+```
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](FACEBOOK-LINK)
+```
 
 ### GitHub
 
@@ -299,7 +352,45 @@ If you are using Synk, you can have a dependency security vulnberability checkin
 [![GitHub Followers](https://img.shields.io/github/followers/tterb.svg?style=social&label=Follow)]()
 ```
 
+### Instagram
+
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/instagram/)
+
+```
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](INSTAGRAM-LINK)
+```
+
+### LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+
+```
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN-LINK)
+```
+
+### Reddit
+
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/)
+
+```
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](REDDIT-LINK)
+```
+
+### Tiktok
+
+[![Tiktok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok)](https://www.tiktok.com/en/)
+
+```
+[![Tiktok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok)](TIKTOK-LINK)
+```
+
 ### Twitter
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/Twitter)
+
+```
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](TWITTER-LINK)
+```
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()
 
@@ -311,6 +402,6 @@ If you are using Synk, you can have a dependency security vulnberability checkin
 [![Twitter Follow](https://img.shields.io/twitter/follow/Twitter.svg?style=social)](https://twitter.com/Twitter)
 
 ```
-[![Tweet](https://img.shields.io/twitter/url/https/github.com/lee00286/github-info-packet.svg?style=social)](https://twitter.com/compose/tweet)
+[![Tweet](https://img.shields.io/twitter/url/https/github.com/USERNAME/REPO-NAME.svg?style=social)](https://twitter.com/compose/tweet)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Twitter.svg?style=social)](https://twitter.com/Twitter)
 ```
