@@ -1,6 +1,7 @@
 # Badges
 
 ## Table of Contents
+1. [Chat](#chat)
 1. [Commit](#commit)
 1. [Contribution](#contribution)
 1. [Donate](#donate)
@@ -12,6 +13,33 @@
 ### Shields.io
 
 [Shields.io](https://shields.io/) is an open source project which suggests badges for your project. 
+
+---
+
+## Chat
+
+### Discord
+
+[![Discord](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/)
+[![Discord](https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/)
+
+```
+[![Discord](https://img.shields.io/discord/CHANNEL-ID.svg)](https://discord.gg/SERVER-ID)
+[![Discord](https://img.shields.io/discord/CHANNEL-ID.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/SERVER-ID)
+```
+
+### Gitter
+
+Replace `GITTER-ID` and `GITTER-CHAT` with your Gitter ID and chat ID.
+
+[![Gitter](https://img.shields.io/gitter/room/GITTER-ID/GITTER-CHAT.svg?style=flat)]()
+[![Gitter](https://img.shields.io/gitter/room/GITTER-ID/GITTER-CHAT.svg?style=flat-square)](https://gitter.im/GITTER-ID/GITTER-CHAT)
+
+```
+[![Gitter](https://img.shields.io/gitter/room/GITTER-ID/GITTER-CHAT.svg?style=flat)]()
+[![Gitter](https://img.shields.io/gitter/room/GITTER-ID/GITTER-CHAT.svg?style=flat-square)](https://gitter.im/GITTER-ID/GITTER-CHAT)
+
+```
 
 ---
 
@@ -193,7 +221,7 @@ If your project is synced with Code Climate, then get your repository id. Replac
 [![Test Coverage](https://api.codeclimate.com/v1/badges/REPO-ID/test_coverage)](https://codeclimate.com/github/USERNAME/REPO-NAME/test_coverage)
 ```
 
-### CodeCov.io (Code Coverage)
+### [CodeCov.io](https://codecov.io) (Code Coverage)
 
 [![CodeCov](https://codecov.io/gh/tterb/yt2mp3/branch/master/graph/badge.svg)](https://codecov.io/gh/tterb/yt2mp3)
 
