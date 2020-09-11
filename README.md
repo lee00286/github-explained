@@ -26,7 +26,7 @@ Before you to contribute to an open-source project, please read through readme, 
 ## Action and Workflows
 
 * [Action and Workflows](/Actions/Action-and-Workflows)
-* [Useful Actions](/Actions/Useful Actions)
+* [Useful Actions](/Actions/Useful-Actions)
 
 ## License
 
