@@ -25,6 +25,9 @@ Before you to contribute to an open-source project, please read through readme, 
 
 ## Action and Workflows
 
+* [Action and Workflows](/Actions/Action-and-Workflows)
+* [Useful Actions](/Actions/Useful Actions)
+
 ## License
 
 ### License a Repository
@@ -49,8 +52,6 @@ If you already created a project, you can [add a license to a repository](https:
 1. Choose a license to add to your project and click <b>Review and submit</b> button. When you commit, if your current branch is the default branch, then you should create a new branch.
 
 ## Useful Plugins
-
-* All-Contributors
 
 ## Tips
 
