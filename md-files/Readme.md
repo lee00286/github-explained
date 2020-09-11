@@ -7,7 +7,6 @@
 1. [Hyperlink](#hyperlink)
 1. [Table](#table)
 1. [Emoji](#emoji)
-1. [Badges](#badges)
 
 ---
 
