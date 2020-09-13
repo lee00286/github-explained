@@ -696,18 +696,6 @@ If you are using Synk, you can have a dependency security vulnberability checkin
 [![Twitter Follow](https://img.shields.io/twitter/follow/Twitter.svg?style=social)](https://twitter.com/Twitter)
 ```
 
-## Version
-
-Version badge informs the latest version of your repository.
-
-[![Version](https://badge.fury.io/gh/lee00286%2Fgithub-info-packet.svg)](https://badge.fury.io/gh/)
-[![Release](https://img.shields.io/github/release/lee00286/github-info-packet.svg?style=flat)]()
-
-```
-[![Version](https://badge.fury.io/gh/USERNAME%2FREPO-NAME.svg)](https://badge.fury.io/gh/)
-[![Release](https://img.shields.io/github/release/USERNAME/REPO-NAME.svg?style=flat)]()
-```
-
 ---
 
 ## Testing
@@ -738,6 +726,20 @@ Version badge informs the latest version of your repository.
 
 ```
 [![Jekyll](https://img.shields.io/badge/built%20for-Jekyll-red.svg)](https://jekyllrb.com/)
+```
+
+---
+
+## Version
+
+Version badge informs the latest version of your repository.
+
+[![Version](https://badge.fury.io/gh/lee00286%2Fgithub-info-packet.svg)](https://badge.fury.io/gh/)
+[![Release](https://img.shields.io/github/release/lee00286/github-info-packet.svg?style=flat)]()
+
+```
+[![Version](https://badge.fury.io/gh/USERNAME%2FREPO-NAME.svg)](https://badge.fury.io/gh/)
+[![Release](https://img.shields.io/github/release/USERNAME/REPO-NAME.svg?style=flat)]()
 ```
 
 ---
