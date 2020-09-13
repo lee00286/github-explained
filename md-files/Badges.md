@@ -6,18 +6,39 @@
 1. [Dependencies](#dependencies)
 1. [Documents](#documents)
 1. [Donate](#donate)
+1. [Hits](#hits)
 1. [License](#license)
+1. [Package Manager](#package-manager)
 1. [Project Contribution](#project-contribution)
 1. [Project Status](#project-status)
 1. [Security](#security)
 1. [Social](#social)
+1. [Testing](#testing)
+1. [Tools](#tools)
 1. [Version](#version)
+1. [Others](#others)
 
 ### Shields.io
 
-[Shields.io](https://shields.io/) is an open source project which suggests badges for your project.
+[Shields.io](https://shields.io/) is an open source project which suggests badges for your project. If you are using Shields.io, then you can use the badge below.
 
-### DIY Badges
+[![Shields.io](https://img.shields.io/badge/shields.io-ok-green.svg?style=flat)](http://shields.io/)
+
+```
+[![Shields.io](https://img.shields.io/badge/shields.io-ok-green.svg?style=flat)](http://shields.io/)
+```
+
+### For the Badge
+
+You can find various kinds of badges in [For the Badge](https://forthebadge.com/). The line below is the example of a badge.
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+
+```
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+```
+
+### Sipmle Icons
 
 You can make your own badges by modifying the line below. If you want a small badge, then remove `SECONDARY`.
 
@@ -143,10 +164,12 @@ Replace `GITTER-ID` and `GITTER-CHAT` with your Gitter ID and chat ID.
 
 ### David
 
-[![David](https://david-dm.org/lee00286/github-info-packet.svg)](https://david-dm.org/)
+[![David Dependecy Status](https://david-dm.org/lee00286/github-info-packet.svg)](https://david-dm.org/lee00286/github-info-packet)
+[![David DevDependencies Status](https://david-dm.org/lee00286/github-info-packet/dev-status.svg)](https://david-dm.org/lee00286/github-info-packet?type=dev)
 
 ```
-[![David](https://david-dm.org/USERNAME/REPO-NAME.svg)](https://david-dm.org/USERNAME/REPO-NAME)
+[![David Dependecy Status](https://david-dm.org/USERNAME/REPO-NAME.svg)](https://david-dm.org/USERNAME/REPO-NAME)
+[![David DevDependencies Status](https://david-dm.org/USERNAME/REPO-NAME/dev-status.svg)](https://david-dm.org/USERNAME/REPO-NAME?type=dev)
 ```
 
 ### Pyup
@@ -230,6 +253,18 @@ Replace `GITTER-ID` and `GITTER-CHAT` with your Gitter ID and chat ID.
 
 ```
 [![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/lee00286) 
+```
+
+---
+
+## Hits
+
+[![HitCount](http://hits.dwyl.io/tterb/Hyde.svg)]()
+[![Implementations](https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat)]()
+
+```
+[![HitCount](http://hits.dwyl.io/USERNAME/REPO-NAME.svg)](http://hits.dwyl.io/USERNAME/REPO-NAME)
+[![Implementations](https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat)](https://github.com/USERNAME/REPO-NAME/blob/master/other/IMPLEMENTATIONS.md)
 ```
 
 ---
@@ -327,13 +362,85 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 
 ---
 
+## Package Manager
+
+* [APM](#apm)
+* [NPM](#npm)
+* [Pypi](#pypi)
+
+### APM
+
+[![APM Version](https://img.shields.io/apm/v/atomic-design-ui.svg?)]()
+[![APM Downloads](https://img.shields.io/apm/dm/atomic-design-ui.svg?maxAge=2592000?)]()
+[![APM](https://apm-badges.herokuapp.com/apm/atomic-monokai-pro-syntax.svg?theme=one-dark)]()
+
+```
+[![APM Version](https://img.shields.io/apm/v/REPO-NAME.svg?)](https://atom.io/themes/REPO-NAME)
+[![APM Downloads](https://img.shields.io/apm/dm/REPO-NAME.svg?maxAge=2592000?)](https://atom.io/themes/REPO-NAME)
+[![APM](https://apm-badges.herokuapp.com/apm/REPO-NAME.svg?theme=one-dark)](https://atom.io/themes/REPO-NAME)
+```
+
+### NPM
+
+[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
+[![NPM License](https://img.shields.io/npm/l/all-contributors.svg?style=flat)]()
+[![NPM Downloads](https://img.shields.io/npm/dt/express.svg?style=flat)]()
+[![NPM](https://nodei.co/npm/electron-download.png?downloads=true)]()
+
+```
+[![NPM Version](https://img.shields.io/npm/v/REPO-NAME.svg?style=flat)]()
+[![NPM License](https://img.shields.io/npm/l/REPO-NAME.svg?style=flat)](https://github.com/USERNAME/REPO-NAME/blob/master/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dt/REPO-NAME.svg?style=flat)]()
+[![NPM](https://nodei.co/npm/REPO-NAME.png?downloads=true)](https://www.npmjs.com/package/REPO-NAME)
+```
+
+### Pypi
+
+[![PyPi Version](https://img.shields.io/pypi/v/yt2mp3.svg)]()
+[![PyPi Version Alt](https://badge.fury.io/py/yt2mp3.svg)]()
+[![PyPi Python Versions](https://img.shields.io/pypi/pyversions/yt2mp3.svg)]()
+[![PyPi Downloads](http://pepy.tech/badge/yt2mp3)]()
+[![Python Versions](https://img.shields.io/pypi/pyversions/yt2mp3.svg)]()
+
+```
+[![PyPi Version](https://img.shields.io/pypi/v/REPO-NAME.svg)](https://pypi.python.org/pypi/REPO-NAME/)
+[![PyPi Version Alt](https://badge.fury.io/py/REPO-NAME.svg)](https://pypi.python.org/pypi/REPO-NAME/)
+[![PyPi Python Versions](https://img.shields.io/pypi/pyversions/REPO-NAME.svg)](https://pypi.python.org/pypi/REPO-NAME/)
+[![PyPi Downloads](http://pepy.tech/badge/REPO-NAME)](http://pepy.tech/project/REPO-NAME)
+[![Python Versions](https://img.shields.io/pypi/pyversions/REPO-NAME.svg)](https://pypi.python.org/pypi/REPO-NAME/)
+```
+
+---
+
 ## Project Contribution
 
+* [Activity](#activity)
 * [Commit](#commit)
 * [Contribution](#contribution)
 * [Downloads](#downloads)
 * [Issues](#issues)
+* [No Maintenance Intended](#no-maintenance-intended)
+* [Open Source](#open-source)
 * [Pull Requests](#pull-requests)
+
+### Activity
+
+Active badge tells people that the project is active or not. You can change the color of the badge by changing `COLOR`. Below are the examples of the active and inactive badges.
+
+[![Active](http://img.shields.io/badge/Status-Active-red.svg)]()
+[![Active](http://img.shields.io/badge/Status-Active-yellow.svg)]()
+[![Active](http://img.shields.io/badge/Status-Active-green.svg)]()
+[![Active](http://img.shields.io/badge/Status-Active-blue.svg)]()
+
+[![Inactive](http://img.shields.io/badge/Status-Inactive-red.svg)]()
+[![Inactive](http://img.shields.io/badge/Status-Inactive-yellow.svg)]()
+[![Inactive](http://img.shields.io/badge/Status-Inactive-green.svg)]()
+[![Inactive](http://img.shields.io/badge/Status-Inactive-blue.svg)]()
+
+```
+[![Active](http://img.shields.io/badge/Status-Active-COLOR.svg)]()
+[![Active](http://img.shields.io/badge/Status-Inactive-COLOR.svg)]()
+```
 
 ### Commit
 
@@ -388,6 +495,26 @@ Welcome Contributions badge encourages people to contribute to your project, by 
 
 ```
 [![Issues](https://img.shields.io/github/issues-raw/USERNAME/REPO-NAME.svg?maxAge=25000)](https://github.com/USERNAME/REPO-NAME/issues)
+```
+
+### No Maintenance Intended
+
+No Maintenance Intended badge informs people that this is an open-project, but not actively maintained.
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+```
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+```
+
+### Open Source
+
+Open Source badge informs people that this is an open-source and contributions are encouraged.
+
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+
+```
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 ```
 
 ### Pull Requests
@@ -465,7 +592,7 @@ If you can't find the markdown code, then copy the line below and replace `USERN
 
 If you are using Synk, you can have a dependency security vulnberability checking for your project. It reassures people using your project that security is being checked. Replace `USERNAME` with your github username and `REPO-NAME` with the repository.
 
-[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)]()
 
 ```
 [![Vulnerabilities](https://snyk.io/test/github/USERNAME/REPO-NAME/badge.svg)](https://snyk.io/test/github/USERNAME/REPO-NAME)
@@ -579,4 +706,69 @@ Version badge informs the latest version of your repository.
 ```
 [![Version](https://badge.fury.io/gh/USERNAME%2FREPO-NAME.svg)](https://badge.fury.io/gh/)
 [![Release](https://img.shields.io/github/release/USERNAME/REPO-NAME.svg?style=flat)]()
+```
+
+---
+
+## Testing
+
+[![Coveralls](https://img.shields.io/coveralls/jekyll/jekyll.svg?style=flat)]()
+[![Wercker Status](https://app.wercker.com/status/9e0bc54c43f48d220aec684fffb2b110/m/master "wercker status")](https://app.wercker.com/project/bykey/9e0bc54c43f48d220aec684fffb2b110)
+
+```
+[![Coveralls](https://img.shields.io/coveralls/USERNAME/REPO-NAME.svg?style=flat)]()
+[![Wercker Status](https://app.wercker.com/status/REPO-ID/m/master "wercker status")](https://app.wercker.com/project/USERNAME/REPO-ID)
+```
+
+---
+
+## Tools
+
+### Grunt
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
+```
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+```
+
+### Jekyll
+
+[![Jekyll](https://img.shields.io/badge/built%20for-Jekyll-red.svg)](https://jekyllrb.com/)
+
+```
+[![Jekyll](https://img.shields.io/badge/built%20for-Jekyll-red.svg)](https://jekyllrb.com/)
+```
+
+---
+
+## Others
+
+* [Awesome](#awesome)
+* [Start with Why](#start-with-why)
+
+### Awesome
+
+Replace `LIST-NAME` and `LIST-URL` with your own one.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Mentioned in Awesome LIST-NAME](https://awesome.re/mentioned-badge.svg)]()
+[![Mentioned in Awesome LIST-NAME](https://awesome.re/mentioned-badge-flat.svg)]()
+
+```
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Mentioned in Awesome LIST-NAME](https://awesome.re/mentioned-badge.svg)](https://github.com/LIST-URL)
+[![Mentioned in Awesome LIST-NAME](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/LIST-URL)
+```
+
+### Start with Why
+
+[![Start with Why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+
+```
+[![Start with Why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 ```
