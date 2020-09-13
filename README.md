@@ -51,6 +51,10 @@ If you already created a project, you can [add a license to a repository](https:
 1. Click <b>Choose a license template</b> button to the right of the file name field.
 1. Choose a license to add to your project and click <b>Review and submit</b> button. When you commit, if your current branch is the default branch, then you should create a new branch.
 
+### License Badges
+
+If the badge is not in your README.md, please add license badge in your markdown. You can find the code [here](/md-files/Badges.md). If you want to find more license badges, use [Shields.io](https://shields.io/category/license) to add your license badge.
+
 ## Useful Plugins
 
 ## Tips
