@@ -25,7 +25,7 @@ Before you to contribute to an open-source project, please read through readme, 
 
 ## Action and Workflows
 
-* [Action and Workflows](/Actions/Action-and-Workflows)
+* [Action and Workflows](/Actions/Action-and-Workflows.md)
 * [Useful Actions](/Actions/Useful-Actions)
 
 ## License
@@ -57,4 +57,3 @@ If you already created a project, you can [add a license to a repository](https:
 
 * Font-Awesome
 * NPM
-* MIT License
