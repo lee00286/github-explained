@@ -66,6 +66,46 @@ If there are more variables to provide, set them in your workflow.
 
 There are three ways to configure a workflow:
 
-* Event on GitHub occurs (commit, pull request, issue)
-* Scheduled event begins
-* External event occurs
+* [Event on GitHub Occurs (commit, pull request, issue)](#event-on-github-occurs)
+* [Scheduled Event Begins](#scheduled-event-begins)
+* External Event Occurs
+
+Use `name:` to add an event value after the workflow name and use `on:` to trigger a workflow after an event. Below is the example of using these syntax.
+
+```
+name: WORKFLOW-NAME
+on: EVENT
+```
+
+#### Event on GitHub Occurs
+
+You can trigger the action through pull request. Below is an example of triggering workflow after pushing to the master branch.
+
+```
+on:
+  push:
+    branches:
+      - master
+```
+
+#### Scheduled Event Begins
+
+POSIX cron syntax allows you to schedule a workflow. Use `schedule:` to schedule a workflow, and `cron: '* * * * *'` to set the time when you want to trigger a workflow.
+
+Each star represents:
+
+1. Minute [0, 59]
+1. Hour [0, 23]
+1. Day of the month [1, 31]
+1. Month of the year [1, 12]
+1. Day of the week [0, 6] (0 is Sunday)
+
+Cron follows STC (System Time Clock). [Crontab Guru](https://crontab.guru/#20_20_*_*_*) will help you to easily edit cron schedule expression.
+
+Below is an example of using schedule and cron syntax.
+
+```
+on:
+  schedule:
+    cron:  '20 20 * * *'
+```
