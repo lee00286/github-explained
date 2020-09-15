@@ -109,3 +109,7 @@ on:
   schedule:
     cron:  '20 20 * * *'
 ```
+
+### [Run a Workflow Manually](https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#manually-running-a-workflow)
+
+Configuring workflow allows you to run a workflow manually. Place `workflow_dispatch` inside `on:` syntax to use it.
