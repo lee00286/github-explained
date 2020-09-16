@@ -18,9 +18,12 @@
 
 ## How to Use Font Awesome
 
+* [Web Fonts with CSS](#web-fonts-with-css)
+* [SVG with JavaScript](#svg-with-javascript)
+
 ### Web Fonts with CSS
 
-You can use font awesome through [Web Fonts with CSS](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself#using-web-fonts). `/css/all.css` file contains the core styling plus that you will need.
+You can use font awesome through [Web Fonts with CSS](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself#using-web-fonts). `/css/all.css` file contains the core styling that you will need.
 
 Copy the path to `/css/all.css` file.
 
@@ -31,6 +34,18 @@ Put the line below in `<head>` of your HTML. Don't forget to replace `PATH-TO-FO
 ```
 
 You can customize the line by refering to some [examples](https://fontawesome.com/v4.7.0/examples/).
+
+### SVG with JavaScript
+
+You can use font awesome through [SVG with JavaScript](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself#using-svg). `/js/all.js` file contains all of the base features and icon styles that you will need.
+
+Copy the path to `/js/all.js` file.
+
+Put the line below in `<head>` of your HTML. Don't forget to replace `PATH-TO-FONT-AWESOME` with the path you copied.
+
+```
+<script defer src="/PATH-TO-FONT-AWESOME/js/all.js"></script>
+```
 
 ---
 
