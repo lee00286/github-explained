@@ -2,8 +2,35 @@
 
 ## Table of Contents
 
+1. [What is Font Awesome](#what-is-font-awesome)
+1. [How to Use Font Awesome](#how-to-use-font-awesome)
 1. [Font Awesome CDN](#font-awesome-cdn)
 1. [Font Awesome Prefix](#font-awesome-prefix)
+
+---
+
+## What is Font Awesome
+
+* [Font Awesome Version 4](https://fontawesome.com/v4.7.0/)
+* [Font Awesome Version 5](https://fontawesome.com/)
+
+---
+
+## How to Use Font Awesome
+
+### Web Fonts with CSS
+
+You can use font awesome through [Web Fonts with CSS](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself#using-web-fonts). `/css/all.css` file contains the core styling plus that you will need.
+
+Copy the path to `/css/all.css` file.
+
+Put the line below in `<head>` of your HTML. Don't forget to replace `PATH-TO-FONT-AWESOME` with the path you copied.
+
+```
+<link rel="stylesheet" href="PATH-TO-FONT-AWESOME/css/all.css">
+```
+
+You can customize the line by refering to some [examples](https://fontawesome.com/v4.7.0/examples/).
 
 ---
 
@@ -54,4 +81,3 @@ You can use these prefix inside HTML code by using the lines below.
 ```
 
 :memo: Some icons have been renamed in Version 5. If you want to use the new icon name, make sure to use the new `fab` prefix. You can check [Icon Name Changes Between Version 4 and 5](https://fontawesome.com/how-to-use/on-the-web/setup/upgrading-from-version-4#name-changes) to replace icon names.
-
