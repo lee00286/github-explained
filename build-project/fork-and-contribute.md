@@ -128,6 +128,63 @@ $ git remote -v
 > origin    https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git (push)
 ```
 
+### Create a New Branch
+
+Some open-source projects would require you to create a new branch when you contribute.
+
+[Branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches#introducing-branches) allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+
+Open Terminal and type `git branch` to check current branches.
+
+```
+$ git branch
+* master
+```
+
+Type `git checkout -b BRANCH-NAME` to create the branch on your local machine. You will be switched into the branch when you create it.
+
+```
+$ git checkout -b BRANCH-NAME
+> Switched to a new branch 'BRANCH-NAME'
+```
+
+When you type `git branch`, you will see the branch you just created.
+
+```
+$ git branch
+* BRANCH-NAME
+  master
+```
+
+To push your branch, type `git push origin BRANCH-NAME`.
+
+### Delete Branch
+
+Deleting branch allows you to remove the branch you created.
+
+
+Open Terminal and type `git branch` to check current branches.
+
+```
+$ git branch
+* master
+  BRANCH-NAME
+```
+
+Type `git checkout -d BRANCH-NAME` to delete the branch on your local machine. You will be switched into master branch when you create it.
+
+```
+$ git branch -d BRANCH-NAME
+> Deleted branch BRANCH-NAME (was BRANCH-CODE).
+```
+
+When you type `git branch`, you will see the branch named `BRANCH-NAME` is removed.
+
+```
+$ git branch
+* master
+```
+
 ## How to Contribute
 
 You are now ready for the contribution! Feel free to make changes in your fork of this project.
