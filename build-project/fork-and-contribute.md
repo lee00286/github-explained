@@ -5,6 +5,7 @@
 - [How to Begin](#how-to-begin)
 - [How to Build Local Project](#how-to-build-local-project)
 - [How to Contribute](#how-to-contribute)
+- [How to Resolve Conflict](#how-to-resolve-conflict)
 
 ---
 
@@ -208,3 +209,32 @@ After you've made any changes, you need to [create a pull request from a fork](h
 1. Click **Create Pull Request**
 
 If you are planning to do further work after the pull request, please use [Draft Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests) feature.
+
+---
+
+## How to Resolve Conflict
+
+If you see the :x: mark next to your pull request, it means you need to resolve conflict before merging into the upstream. It causes when your files are not synced properly or changes were requested by the owner. When you move into the pull request, you will see the message like below:
+
+> "This branch has conflicts that must be resolved"
+
+[Resolving Conflict](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github) allows you to resolve simple merge conflicts.
+
+Click **Resolve conflicts** button near the bottom of your pull request. 
+
+Then, a file with conflict will be shown with conflict markers `<<<<<<<`, `=======`, and `>>>>>>>`. The line between `<<<<<<<` and `=======` is your local change and the line between `=======` and `>>>>>>>` is the remote change.
+
+```
+<<<<<<< edit-contributor
+LOCAL CHANGE
+=======
+REMOTE CHANGE
+>>>>>>> master
+```
+
+Make the changes you want in the final merge. Repeat this step until all of the conflicts in the file is resolved.
+
+Click **Mark as resolved** button after you've resolved all the conflicts. You might need to select next file if you have more than one file with a
+conflict.
+
+Click **Commit merge** button to merge base branch into the head branch. Then click **Merge pull request** to finish resolving conflicts.
