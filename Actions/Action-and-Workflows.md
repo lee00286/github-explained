@@ -5,6 +5,7 @@
 1. [What is an Action](#what-is-an-action)
 1. [How to Begin](#how-to-begin)
 1. [How to Build an Workflow](#how-to-build-an-workflow)
+1. [How to Run a Workflow Manually](#how-to-run-a-workflow-manually)
 
 ---
 
@@ -60,7 +61,7 @@ If there are more variables to provide, set them in your workflow.
 
 ## How to Build an Workflow
 
-### [Workflow Syntax](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idsteps)
+### [Workflow Syntax](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions)
 
 ### [Trigger a Workflow with Events](https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#triggering-a-workflow-with-events)
 
@@ -110,6 +111,43 @@ on:
     cron:  '20 20 * * *'
 ```
 
-### [Run a Workflow Manually](https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#manually-running-a-workflow)
+## How to Run a Workflow Manually
 
-Configuring workflow allows you to run a workflow manually. Place `workflow_dispatch` inside `on:` syntax to use it.
+* [Workflow Dispatch](#workflow-dispatch)
+* [Trigger the Workflow Dispatch](#trigger-the-workflow-dispatch)
+
+### Workflow Dispatch
+
+[Run a Workflow Manually](https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#manually-running-a-workflow)
+
+Configuring workflow allows you to run a workflow manually. Place `workflow_dispatch` inside `on:` syntax to use it. Below is an example of the manual workflow using [Ubuntu](https://ubuntu.com/). If `name` is provided, then 'SUCCEED' is printed. If it isn't provided, 'FAILED' is printed instead.
+
+```
+name: Manually triggered workflow
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'SUCCEED'
+        required: true
+        default: 'FAILED'
+      home:
+        description: 'location'
+        required: false
+
+jobs:
+  say_hello:
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        echo "Hello ${{ github.event.inputs.name }}!"
+        echo "- in ${{ github.event.inputs.home }}!"
+```
+
+### Trigger the Workflow Dispatch
+
+Triggering the `worfklow_dispatch` event allows you to run the workflow manually. You can trigger it from the Actions tab.
+
+On GitHub webpage, navigate to the **Actions** tab. If you haven't use Actions in the repository yet, then read [Add a Workflow Template](#add-a-workflow-template) section.
+
+Click the workflow you want to run in the left sidebar. In the workflow, there will be a list of workflow runs. Select **Run workflow** and select the branch where the workflow will run and type the input parameters. Then, click **Run workflow** button.
