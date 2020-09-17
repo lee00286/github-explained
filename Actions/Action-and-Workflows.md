@@ -111,6 +111,8 @@ on:
     cron:  '20 20 * * *'
 ```
 
+---
+
 ## How to Run a Workflow Manually
 
 * [Workflow Dispatch](#workflow-dispatch)
