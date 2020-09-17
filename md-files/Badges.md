@@ -9,7 +9,7 @@
 1. [Hits](#hits)
 1. [License](#license)
 1. [Package Manager](#package-manager)
-1. [Project Contribution](#project-contribution)
+1. [Project](#project)
 1. [Project Status](#project-status)
 1. [Security](#security)
 1. [Social](#social)
@@ -412,7 +412,7 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 
 ---
 
-## Project Contribution
+## Project
 
 * [Activity](#activity)
 * [Commit](#commit)
@@ -422,6 +422,7 @@ The list of license badges can be found [here](https://gist.github.com/lukas-h/2
 * [No Maintenance Intended](#no-maintenance-intended)
 * [Open Source](#open-source)
 * [Pull Requests](#pull-requests)
+* [Workflow Status](#workflow-status)
 
 ### Activity
 
@@ -525,6 +526,17 @@ Open Source badge informs people that this is an open-source and contributions a
 ```
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)](https://github.com/USERNAME/REPO-NAME/pulls)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+```
+
+### Workflow Status
+
+You can replace `WORKFLOW-NAME` with either name or file path of workflow.
+
+[![Workflow Status](https://github.com/AndreSand/BornInApp/workflows/android-master/badge.svg)](https://github.com/AndreSand/BornInApp/actions)
+
+
+```
+[![Workflow Status](https://github.com/OWNER/REPOSITORY/workflows/WORKFLOW-NAME/badge.svg)]()
 ```
 
 ---
