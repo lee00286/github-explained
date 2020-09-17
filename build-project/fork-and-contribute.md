@@ -6,9 +6,13 @@
 - [How to Build Local Project](#how-to-build-local-project)
 - [How to Contribute](#how-to-contribute)
 
+---
+
 ## Requirement Before the Contribution
 
 Before you to contribute to an open-source project, please read through readme, contribution, and code of conduct files, if available. They will help you to learn how to install the file, how to contribute, and how to hold a respectful and harassment-free space for all project participants.
+
+---
 
 ## How to Begin
 
@@ -45,6 +49,8 @@ For example,
 ```
 $ git checkout -b lee00286/improve-contribution-file-1234
 ```
+
+---
 
 ## How to Build Local Project
 
@@ -184,6 +190,8 @@ When you type `git branch`, you will see the branch named `BRANCH-NAME` is remov
 $ git branch
 * master
 ```
+
+---
 
 ## How to Contribute
 
