@@ -5,7 +5,8 @@
 1. [Markdown Files](#markdown-files)
 1. [Action and Workflows](#action-and-workflows)
 1. [License](#license)
-1. [Useful Label](#useful-label)
+1. [Label](#label)
+1. [Tips](#tips)
 
 ---
 
@@ -65,7 +66,9 @@ If the badge is not in your README.md, please add license badge in your markdown
 
 ---
 
-## Useful Label
+## Label
+
+* [Labels](/Label/Labels.md)
 
 ---
 
