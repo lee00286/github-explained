@@ -21,3 +21,31 @@
 * [your-first-pr](https://github.com/search?q=state%3Aopen+label%3A%22your-first-pr%22&type=Issues)
 * [first timers only](https://github.com/search?q=state%3Aopen+label%3A%22first+timers+only%22&type=Issues)
 * [first time contributor](https://github.com/search?q=state%3Aopen+label%3A%22first+time+contributor%22&type=Issues)
+
+## Labels for Writers
+
+### Documentation
+
+* documentation
+
+## Labels for Programmers
+
+* frontend
+* backend
+
+## Labels for Testers
+
+* Bug
+
+## Labels for Designers
+
+* design
+
+## etc.; un-categorized
+
+* help wanted
+* Hacktoberfest
+* enhancement
+* suggestion
+* up-for-grabs
+* Epic
