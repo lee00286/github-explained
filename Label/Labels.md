@@ -1,6 +1,6 @@
 # Labels
 
-:memo: Updated 2020-09-21 16:40, GMT+9
+:memo: Updated 2020-09-21 16:58, GMT+9
 
 ## Labels for Beginners
 
@@ -8,8 +8,8 @@
 <table>
     <thead>
         <tr>
-            <th>From 100k</th>
-            <th>1k-99k</th>
+            <th>From 100K</th>
+            <th>1k-99K</th>
             <th>100-999</th>
             <th>10-99</th>
             <th>1-10</th>
@@ -97,11 +97,44 @@
 * [first time contributor](https://github.com/search?q=state%3Aopen+label%3A%22first+time+contributor%22&type=Issues) `6`
 -->
 
-## Labels for Writers
+## Labels for Document-Editors
 
-* [documentation](https://github.com/search?q=state%3Aopen+label%3A%22documentation%22&type=Issues)
-* [docs](https://github.com/search?q=state%3Aopen+label%3A%22docs%22&type=Issues)
-* [docs 📖](https://github.com/search?q=state%3Aopen+label%3A%22docs+%F0%9F%93%96%22&type=Issues)
+<!-- <li><a href=""></a> <code></code></li> -->
+<table>
+    <thead>
+        <tr>
+            <th>From 100K</th>
+            <th>1K-99K</th>
+            <th>100-999</th>
+            <th>10-99</th>
+            <th>1-10</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22documentation%22&type=Issues">documentation</a> <code>105K</code></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22docs%22&type=Issues">docs</a> <code>99K</code></li>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22document%22&type=Issues">document</a> <code>1K</code></li>
+                </ul>
+            </td>
+            <td>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22docs+%F0%9F%93%96%22&type=Issues">docs 📖</a> <code>18</code></li>
+                </ul>
+            </td>
+            <td>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Labels for Programmers
 
@@ -116,12 +149,15 @@
 * [ui](https://github.com/search?q=state%3Aopen+label%3A%22ui%22&type=Issues)
 * [ux](https://github.com/search?q=state%3Aopen+label%3A%22ux%22&type=Issues)
 * [dependencies](https://github.com/search?p=99&q=state%3Aopen+label%3A%22javascript%22&type=Issues)
+* software
 * android
+* platform-android
 
-### Language
+## Labels for Programming Language
 
 * [python](https://github.com/search?q=state%3Aopen+label%3A%22python%22&type=Issues)
 * [javascript](https://github.com/search?q=state%3Aopen+label%3A%22javascript%22&type=Issues)
+* [php](https://github.com/search?q=state%3Aopen+label%3A%22php%22&type=Issues) `87k`
 * [C](https://github.com/search?q=state%3Aopen+label%3A%22c%22&type=Issues)
 * [C++](https://github.com/search?q=state%3Aopen+label%3A%22c%2B%2B%22&type=Issues)
 
@@ -154,11 +190,14 @@
 * impact medium
 * impact low
 
+## Events
+
+* Hacktoberfest
+
 ## etc.; un-categorized
 
 * help wanted
 * help wanted 👋
-* Hacktoberfest
 * enhancement
 * suggestion
 * up-for-grabs
