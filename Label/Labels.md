@@ -1,6 +1,6 @@
 # Labels
 
-:memo: Updated 2020-09-21 16:58, GMT+9
+:memo: Updated 2020-09-21 17:07, GMT+9
 
 ## Labels for Beginners
 
@@ -140,6 +140,7 @@
 
 ### Area
 
+* [AWS](https://github.com/search?q=state%3Aopen+label%3A%22aws%22&type=Issues) `1K`
 * [algorithm](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues)
 * [frontend](https://github.com/search?q=state%3Aopen+label%3A%22frontend%22&type=Issues)
 * [backend](https://github.com/search?q=state%3Aopen+label%3A%22backend%22&type=Issues)
@@ -155,15 +156,32 @@
 
 ## Labels for Programming Language
 
-* [python](https://github.com/search?q=state%3Aopen+label%3A%22python%22&type=Issues)
-* [javascript](https://github.com/search?q=state%3Aopen+label%3A%22javascript%22&type=Issues)
-* [php](https://github.com/search?q=state%3Aopen+label%3A%22php%22&type=Issues) `87k`
-* [C](https://github.com/search?q=state%3Aopen+label%3A%22c%22&type=Issues)
-* [C++](https://github.com/search?q=state%3Aopen+label%3A%22c%2B%2B%22&type=Issues)
+* [C](https://github.com/search?q=state%3Aopen+label%3A%22c%22&type=Issues) `1K`
+* [C#](https://github.com/search?q=state%3Aopen+label%3A%22c%23%22&type=Issues) `1K`
+* [C++](https://github.com/search?q=state%3Aopen+label%3A%22c%2B%2B%22&type=Issues) `1K`
+* [Dockerfile](https://github.com/search?q=state%3Aopen+label%3A%22dockerfile%22&type=Issues) `13`
+* [fortran](https://github.com/search?q=state%3Aopen+label%3A%22fortran%22&type=Issues) `51`
+* [Go](https://github.com/search?q=state%3Aopen+label%3A%22Go%22&type=Issues) `2K`
+* [html](https://github.com/search?q=state%3Aopen+label%3A%22html%22&type=Issues) `4K`
+* [javascript](https://github.com/search?q=state%3Aopen+label%3A%22javascript%22&type=Issues) `873K`
+* [Jupyter](https://github.com/search?q=state%3Aopen+label%3A%22jupyter%22&type=Issues) `112`
+* [Jupyter Notebook](https://github.com/search?q=state%3Aopen+label%3A%22jupyter+notebook%22&type=Issues) `53`
+* [php](https://github.com/search?q=state%3Aopen+label%3A%22php%22&type=Issues) `87K`
+* [python](https://github.com/search?q=state%3Aopen+label%3A%22python%22&type=Issues) `32K`
+* [R](https://github.com/search?q=state%3Aopen+label%3A%22R%22&type=Issues) `621`
+* [ruby](https://github.com/search?q=state%3Aopen+label%3A%22html%22&type=Issues) `186K`
+* [shell](https://github.com/search?q=state%3Aopen+label%3A%22shell%22&type=Issues) `813`
+* [Scala](https://github.com/search?q=state%3Aopen+label%3A%22scala%22&type=Issues) `439`
+* [Shell](https://github.com/search?q=state%3Aopen+label%3A%22shell%22&type=Issues) `813`
+* [Starlark](https://github.com/search?q=state%3Aopen+label%3A%22starlark%22&type=Issues) `4`
+* [SQL](https://github.com/search?q=state%3Aopen+label%3A%22SQL%22&type=Issues) `1K`
+* [TSQL](https://github.com/search?q=state%3Aopen+label%3A%22TSQL%22&type=Issues) `28`
+* [Vim](https://github.com/search?q=state%3Aopen+label%3A%22vim%22&type=Issues) `749`
+* [Vue](https://github.com/search?q=state%3Aopen+label%3A%22vue%22&type=Issues) `3K`
 
 ## Labels for Testers
 
-* [Bug](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues)
+* [Bug](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues) `1K`
 * unconfirmed-bug
 * testing
 * wontfix ☠️
