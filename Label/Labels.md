@@ -178,10 +178,13 @@
 * [C](https://github.com/search?q=state%3Aopen+label%3A%22c%22&type=Issues) `1K`
 * [C#](https://github.com/search?q=state%3Aopen+label%3A%22c%23%22&type=Issues) `1K`
 * [C++](https://github.com/search?q=state%3Aopen+label%3A%22c%2B%2B%22&type=Issues) `1K`
+* [CSS](https://github.com/search?q=state%3Aopen+label%3A%22CSS%22&type=Issues) `8K`
+* [CSS3](https://github.com/search?q=state%3Aopen+label%3A%22CSS3%22&type=Issues) `278`
 * [Dockerfile](https://github.com/search?q=state%3Aopen+label%3A%22dockerfile%22&type=Issues) `13`
 * [fortran](https://github.com/search?q=state%3Aopen+label%3A%22fortran%22&type=Issues) `51`
 * [Go](https://github.com/search?q=state%3Aopen+label%3A%22Go%22&type=Issues) `2K`
-* [html](https://github.com/search?q=state%3Aopen+label%3A%22html%22&type=Issues) `4K`
+* [HTML](https://github.com/search?q=state%3Aopen+label%3A%22html%22&type=Issues) `4K`
+* [HTML5](https://github.com/search?q=state%3Aopen+label%3A%22HTML5%22&type=Issues) `341`
 * [javascript](https://github.com/search?q=state%3Aopen+label%3A%22javascript%22&type=Issues) `873K`
 * [Jupyter](https://github.com/search?q=state%3Aopen+label%3A%22jupyter%22&type=Issues) `112`
 * [Jupyter Notebook](https://github.com/search?q=state%3Aopen+label%3A%22jupyter+notebook%22&type=Issues) `53`
@@ -210,9 +213,10 @@
 
 ---
 
-## Labels for Designers
+## Designers
 
 * design
+* [photoshop](https://github.com/search?q=state%3Aopen+label%3A%22photoshop%22&type=Issues) `59`
 
 ---
 
