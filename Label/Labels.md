@@ -2,7 +2,21 @@
 
 :memo: Updated 2020-09-21 17:07, GMT+9
 
-## Labels for Beginners
+## Table of Contents
+
+1. [GitHub Beginners](#github-beginners)
+1. [Document-Editors](#document-editors)
+1. [Programmers](#programmers)
+1. [Testers](#testers)
+1. [Designers](#designers)
+1. [Issue Purpose](#issue-purpose)
+1. [Issue Status](#issue-status)
+1. [Events](#Events)
+1. [etc or un-categorized](#etc-or-un-categorized)
+
+---
+
+## GitHub Beginners
 
 <!-- <li><a href=""></a> <code></code></li> -->
 <table>
@@ -97,7 +111,9 @@
 * [first time contributor](https://github.com/search?q=state%3Aopen+label%3A%22first+time+contributor%22&type=Issues) `6`
 -->
 
-## Labels for Document-Editors
+---
+
+## Document-Editors
 
 <!-- <li><a href=""></a> <code></code></li> -->
 <table>
@@ -136,7 +152,9 @@
     </tbody>
 </table>
 
-## Labels for Programmers
+---
+
+## Programmers
 
 ### Area
 
@@ -153,8 +171,9 @@
 * software
 * android
 * platform-android
+* windows
 
-## Labels for Programming Language
+### Programming Language
 
 * [C](https://github.com/search?q=state%3Aopen+label%3A%22c%22&type=Issues) `1K`
 * [C#](https://github.com/search?q=state%3Aopen+label%3A%22c%23%22&type=Issues) `1K`
@@ -179,7 +198,9 @@
 * [Vim](https://github.com/search?q=state%3Aopen+label%3A%22vim%22&type=Issues) `749`
 * [Vue](https://github.com/search?q=state%3Aopen+label%3A%22vue%22&type=Issues) `3K`
 
-## Labels for Testers
+---
+
+## Testers
 
 * [Bug](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues) `1K`
 * unconfirmed-bug
@@ -187,9 +208,13 @@
 * wontfix ☠️
 * maintenance
 
+---
+
 ## Labels for Designers
 
 * design
+
+---
 
 ## Priority
 
@@ -211,6 +236,8 @@
 * impact medium
 * impact low
 * critical
+
+---
 
 ## Issue Purpose
 
@@ -240,10 +267,16 @@
 
 * question
 
+---
+
 ## Issue Status
 
+* Always Open
+* Up for grabs
+* up-for-grabs
 * help wanted
 * help wanted 👋
+* [needs-triage](https://github.com/search?q=state%3Aopen+label%3A%22needs-triage%22&type=Issues) `2K`
 * enhancement
 * investigating
 * investigating 🕵️‍♂️
@@ -253,15 +286,18 @@
 * [blocked](https://github.com/search?q=state%3Aopen+label%3A%22blocked%22&type=Issues) `9K`
 * blocked 🛑
 
+---
+
 ## Events
 
 * Hacktoberfest
+* [hackathon](https://github.com/search?q=state%3Aopen+label%3A%22hackathon%22&type=Issues) `1K`
 
-## etc.; un-categorized
+---
 
-* up-for-grabs
+## etc or un-categorized
+
 * Epic
-* Always Open
 
 * gh-actions
 * workflow
@@ -283,3 +319,9 @@
 * content
 
 * CLI
+
+* [client](https://github.com/search?q=state%3Aopen+label%3A%22client%22&type=Issues) `11K`
+* AppAuthentication
+* [Service Attention](https://github.com/search?q=state%3Aopen+label%3A%22Service+Attention%22&type=Issues) `2K`
+* [customer-reported](https://github.com/search?q=state%3Aopen+label%3A%22customer-reported%22&type=Issues) `1K`
+* Service Bus
