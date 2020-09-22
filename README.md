@@ -68,7 +68,7 @@ If the badge is not in your README.md, please add license badge in your markdown
 
 ## Label
 
-* [Labels](/Label/Labels.md)
+* [Labels](/Label/Issue-Labels.md)
 
 ---
 
