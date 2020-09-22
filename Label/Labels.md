@@ -200,6 +200,9 @@
 * priority: high 🔥
 * priority: medium 👍
 * priority: low 🤞
+* major
+* minor
+* important
 
 ## Impact
 
@@ -207,6 +210,48 @@
 * impact high
 * impact medium
 * impact low
+* critical
+
+## Issue Purpose
+
+### Announcement
+
+* [announcement](https://github.com/search?q=state%3Aopen+label%3A%22announcement%22&type=Issues) `1K`
+* announcement 🔊
+
+### Discussion
+
+* discussion
+* discussion 🗣❤️
+
+### Request
+
+* suggestion
+* [request](https://github.com/search?q=state%3Aopen+label%3A%22request%22&type=Issues) `8K`
+* example request
+* feature-request
+* more information required
+* improvement ⭐️
+* [new feature](https://github.com/search?q=state%3Aopen+label%3A%22new+feature%22&type=Issues) `33K`
+* new feature 🎨
+* idea 🤔
+
+### Question
+
+* question
+
+## Issue Status
+
+* help wanted
+* help wanted 👋
+* enhancement
+* investigating
+* investigating 🕵️‍♂️
+* untriaged
+* ready for review
+* reviewed
+* [blocked](https://github.com/search?q=state%3Aopen+label%3A%22blocked%22&type=Issues) `9K`
+* blocked 🛑
 
 ## Events
 
@@ -214,43 +259,27 @@
 
 ## etc.; un-categorized
 
-* help wanted
-* help wanted 👋
-* enhancement
-* suggestion
 * up-for-grabs
 * Epic
 * Always Open
-* question
+
 * gh-actions
 * workflow
-* discussion
-* example request
-* feature-request
+
 * breaking
 * refactor
-* untriaged
-* idea 🤔
+
 * greenkeeper
-* investigating 🕵️‍♂️
-* more information required
-* 3rd party investigation 🤝
+
+* 3rd party integration 🤝
 * accessibility ♿️
-* blocked 🛑
-* discussion 🗣❤️
-* improvement ⭐️
-* new feature 🎨
-* announcement 🔊
+
 * engineering health 🛠
 * performance 🚀
 * mvp
-* critical
+
 * core
 * Airtable Done
 * content
-* major
-* minor
-* imoprtant
-* CLI
-* reviewed
 
+* CLI
