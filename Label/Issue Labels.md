@@ -1,6 +1,6 @@
-# Labels
+# Issue Labels
 
-:memo: Updated 2020-09-21 17:07, GMT+9
+:memo: Updated 2020-09-23 2:24, GMT+9
 
 ## Table of Contents
 
@@ -44,13 +44,13 @@
             </td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22E-easy%22&type=Issues">E-easy</a> <code>880</code></li>
-                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22first-timers-only%22&type=Issues">first-timers-only</a> <code>779</code></li>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22E-easy%22&type=Issues">E-easy</a> <code>879</code></li>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22first-timers-only%22&type=Issues">first-timers-only</a> <code>784</code></li>
                     <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22starter%22&type=Issues">starter</a> <code>774</code></li>
-                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22beginner+friendly%22&type=Issues">beginner friendly</a> <code>652</code></li>
-                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22good+first+bug%22&type=Issues">good first bug</a> <code>639</code></li>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22beginner+friendly%22&type=Issues">beginner friendly</a> <code>645</code></li>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22good+first+bug%22&type=Issues">good first bug</a> <code>641</code></li>
                     <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22easy+pick%22&type=Issues">easy pick</a> <code>514</code></li>
-                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22easy+fix%22&type=Issues">easy fix</a> <code>502</code></li>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22easy+fix%22&type=Issues">easy fix</a> <code>501</code></li>
                     <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22newbie%22&type=Issues">newbie</a> <code>485</code></li>
                     <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22easy-fix%22&type=Issues">easy-fix</a> <code>223</code></li>
                     <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22easy-pick%22&type=Issues">easy-pick</a> <code>139</code></li>
@@ -59,7 +59,7 @@
             </td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22first+timers+only%22&type=Issues">first timers only</a> <code>88</code></li>
+                    <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22first+timers+only%22&type=Issues">first timers only</a> <code>94</code></li>
                     <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22first-time+contributor%22&type=Issues">First-time contributor</a> <code>72</code></li>
                     <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22good+first+patch%22&type=Issues">good first patch</a> <code>43</code></li>
                     <li><a href="https://github.com/search?q=state%3Aopen+label%3A%22good+for+beginner%22&type=Issues">good for beginner</a> <code>40</code></li>
@@ -161,9 +161,11 @@
 * [AWS](https://github.com/search?q=state%3Aopen+label%3A%22aws%22&type=Issues) `1K`
 * [algorithm](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues)
 * [frontend](https://github.com/search?q=state%3Aopen+label%3A%22frontend%22&type=Issues)
+* [front-end](https://github.com/search?q=state%3Aopen+label%3A%22FRONT-END%22&type=Issues) `7K`
 * [backend](https://github.com/search?q=state%3Aopen+label%3A%22backend%22&type=Issues)
+* [back-end](https://github.com/search?q=state%3Aopen+label%3A%22back-end%22&type=Issues) `5K`
 * [backlog](https://github.com/search?q=state%3Aopen+label%3A%22backlog%22&type=Issues)
-* [website](https://github.com/search?q=state%3Aopen+label%3A%22website%22&type=Issues)
+* [website](https://github.com/search?q=state%3Aopen+label%3A%22website%22&type=Issues) `26K`
 * [button](https://github.com/search?q=state%3Aopen+label%3A%22button%22&type=Issues)
 * [ui](https://github.com/search?q=state%3Aopen+label%3A%22ui%22&type=Issues)
 * [ux](https://github.com/search?q=state%3Aopen+label%3A%22ux%22&type=Issues)
@@ -172,6 +174,9 @@
 * android
 * platform-android
 * windows
+* [React](https://github.com/search?q=state%3Aopen+label%3A%22React%22&type=Issues) `5K`
+* [svn](https://github.com/search?q=state%3Aopen+label%3A%22svn%22&type=Issues) `40`
+* [Node.js](https://github.com/search?q=state%3Aopen+label%3A%22NODE.JS%22&type=Issues) `1K`
 
 ### Programming Language
 
@@ -182,12 +187,16 @@
 * [CSS3](https://github.com/search?q=state%3Aopen+label%3A%22CSS3%22&type=Issues) `278`
 * [Dockerfile](https://github.com/search?q=state%3Aopen+label%3A%22dockerfile%22&type=Issues) `13`
 * [fortran](https://github.com/search?q=state%3Aopen+label%3A%22fortran%22&type=Issues) `51`
+* [Git](https://github.com/search?q=state%3Aopen+label%3A%22git%22&type=Issues) `2K`
 * [Go](https://github.com/search?q=state%3Aopen+label%3A%22Go%22&type=Issues) `2K`
+* [GraphQL](https://github.com/search?q=state%3Aopen+label%3A%22GraphQL%22&type=Issues) `635`
 * [HTML](https://github.com/search?q=state%3Aopen+label%3A%22html%22&type=Issues) `4K`
 * [HTML5](https://github.com/search?q=state%3Aopen+label%3A%22HTML5%22&type=Issues) `341`
 * [javascript](https://github.com/search?q=state%3Aopen+label%3A%22javascript%22&type=Issues) `873K`
+* [JS](https://github.com/search?q=state%3Aopen+label%3A%22JS%22&type=Issues) `7K`
 * [Jupyter](https://github.com/search?q=state%3Aopen+label%3A%22jupyter%22&type=Issues) `112`
 * [Jupyter Notebook](https://github.com/search?q=state%3Aopen+label%3A%22jupyter+notebook%22&type=Issues) `53`
+* [NoSQL](https://github.com/search?q=state%3Aopen+label%3A%22NoSQL%22&type=Issues) `110`
 * [php](https://github.com/search?q=state%3Aopen+label%3A%22php%22&type=Issues) `87K`
 * [python](https://github.com/search?q=state%3Aopen+label%3A%22python%22&type=Issues) `32K`
 * [R](https://github.com/search?q=state%3Aopen+label%3A%22R%22&type=Issues) `621`
@@ -198,6 +207,7 @@
 * [Starlark](https://github.com/search?q=state%3Aopen+label%3A%22starlark%22&type=Issues) `4`
 * [SQL](https://github.com/search?q=state%3Aopen+label%3A%22SQL%22&type=Issues) `1K`
 * [TSQL](https://github.com/search?q=state%3Aopen+label%3A%22TSQL%22&type=Issues) `28`
+* [TypeScript](https://github.com/search?q=state%3Aopen+label%3A%22TypeScript%22&type=Issues) `1K`
 * [Vim](https://github.com/search?q=state%3Aopen+label%3A%22vim%22&type=Issues) `749`
 * [Vue](https://github.com/search?q=state%3Aopen+label%3A%22vue%22&type=Issues) `3K`
 
@@ -206,16 +216,20 @@
 ## Testers
 
 * [Bug](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues) `1K`
-* unconfirmed-bug
-* testing
-* wontfix ☠️
-* maintenance
+* [unconfirmed-bug](https://github.com/search?q=state%3Aopen+label%3A%22unconfirmed-bug%22&type=Issues) `154`
+* [confirmed-bug](https://github.com/search?q=state%3Aopen+label%3A%22confirmed-bug%22&type=Issues) `221`
+* [test](https://github.com/search?q=state%3Aopen+label%3A%22test%22&type=Issues) `12K`
+* [testing](https://github.com/search?q=state%3Aopen+label%3A%22testing%22&type=Issues) `16K`
+* [wontfix](https://github.com/search?q=state%3Aopen+label%3A%22wontfix%22&type=Issues) `27K`
+* [invalid](https://github.com/search?q=state%3Aopen+label%3A%22invalid%22&type=Issues) `17K`
+* [maintenance](https://github.com/search?q=state%3Aopen+label%3A%22maintenance%22&type=Issues) `4K`
+* [feedback](https://github.com/search?q=state%3Aopen+label%3A%22feedback%22&type=Issues) `7K`
 
 ---
 
 ## Designers
 
-* design
+* [design](https://github.com/search?q=state%3Aopen+label%3A%22design%22&type=Issues) `26K`
 * [photoshop](https://github.com/search?q=state%3Aopen+label%3A%22photoshop%22&type=Issues) `59`
 
 ---
@@ -232,6 +246,8 @@
 * major
 * minor
 * important
+* [to do](https://github.com/search?q=state%3Aopen+label%3A%22to+do%22&type=Issues) `13K`
+* [to-do](https://github.com/search?q=state%3Aopen+label%3A%22to-do%22&type=Issues) `2K`
 
 ## Impact
 
@@ -286,6 +302,7 @@
 * investigating 🕵️‍♂️
 * untriaged
 * ready for review
+* [review](https://github.com/search?q=state%3Aopen+label%3A%22review%22&type=Issues) `7K`
 * reviewed
 * [blocked](https://github.com/search?q=state%3Aopen+label%3A%22blocked%22&type=Issues) `9K`
 * blocked 🛑
@@ -296,6 +313,16 @@
 
 * Hacktoberfest
 * [hackathon](https://github.com/search?q=state%3Aopen+label%3A%22hackathon%22&type=Issues) `1K`
+
+---
+
+## Website
+
+* [LeetCode](https://github.com/search?q=state%3Aopen+label%3A%22leetcode%22&type=Issues) `885`
+* [Hackerrank](https://github.com/search?q=state%3Aopen+label%3A%22hackerrank%22&type=Issues) `81`
+* [Google](https://github.com/search?q=state%3Aopen+label%3A%22google%22&type=Issues) `229`
+* [Twitter](https://github.com/search?q=state%3Aopen+label%3A%22twitter%22&type=Issues) `2K`
+* [facebook](https://github.com/search?q=state%3Aopen+label%3A%22facebook%22&type=Issues) `477`
 
 ---
 
@@ -320,12 +347,15 @@
 
 * core
 * Airtable Done
-* content
+* [content](https://github.com/search?q=state%3Aopen+label%3A%22content%22&type=Issues) `8K`
 
 * CLI
 
 * [client](https://github.com/search?q=state%3Aopen+label%3A%22client%22&type=Issues) `11K`
-* AppAuthentication
+* [Authentication](https://github.com/search?q=state%3Aopen+label%3A%22Authentication%22&type=Issues) `733`
 * [Service Attention](https://github.com/search?q=state%3Aopen+label%3A%22Service+Attention%22&type=Issues) `2K`
 * [customer-reported](https://github.com/search?q=state%3Aopen+label%3A%22customer-reported%22&type=Issues) `1K`
 * Service Bus
+
+* [article](https://github.com/search?q=state%3Aopen+label%3A%22article%22&type=Issues) `1K`
+* [video](https://github.com/search?q=state%3Aopen+label%3A%22video%22&type=Issues) `966`
