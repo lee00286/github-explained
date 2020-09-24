@@ -169,8 +169,8 @@
 * [button](https://github.com/search?q=state%3Aopen+label%3A%22button%22&type=Issues)
 * [ui](https://github.com/search?q=state%3Aopen+label%3A%22ui%22&type=Issues)
 * [ux](https://github.com/search?q=state%3Aopen+label%3A%22ux%22&type=Issues)
-* [dependencies](https://github.com/search?p=99&q=state%3Aopen+label%3A%22javascript%22&type=Issues)
-* software
+* [dependencies](https://github.com/search?p=99&q=state%3Aopen+label%3A%22javascript%22&type=Issues) `871K`
+* [software](https://github.com/search?q=state%3Aopen+label%3A%22software%22&type=Issues) `2K`
 * android
 * platform-android
 * windows
@@ -243,8 +243,8 @@
 * priority: high 🔥
 * priority: medium 👍
 * priority: low 🤞
-* major
-* minor
+* [major](https://github.com/search?q=state%3Aopen+label%3A%22major%22&type=Issues) `13K`
+* [minor](https://github.com/search?q=state%3Aopen+label%3A%22minor%22&type=Issues) `14K`
 * important
 * [to do](https://github.com/search?q=state%3Aopen+label%3A%22to+do%22&type=Issues) `13K`
 * [to-do](https://github.com/search?q=state%3Aopen+label%3A%22to-do%22&type=Issues) `2K`
@@ -264,21 +264,21 @@
 ### Announcement
 
 * [announcement](https://github.com/search?q=state%3Aopen+label%3A%22announcement%22&type=Issues) `1K`
-* announcement 🔊
 
 ### Discussion
 
-* discussion
-* discussion 🗣❤️
+* [discussion](https://github.com/search?q=state%3Aopen+label%3A%22discussion%22&type=Issues) `32K`
+* [discuss](https://github.com/search?q=state%3Aopen+label%3A%22discuss%22&type=Issues) `5K`
 
 ### Request
 
-* suggestion
+* [suggestion](https://github.com/search?q=state%3Aopen+label%3A%22suggestion%22&type=Issues) `15K`
 * [request](https://github.com/search?q=state%3Aopen+label%3A%22request%22&type=Issues) `8K`
-* example request
-* feature-request
-* more information required
-* improvement ⭐️
+* [example request](https://github.com/search?q=state%3Aopen+label%3A%22example+request%22&type=Issues) `40`
+* [example-request](https://github.com/search?q=state%3Aopen+label%3A%22example-request%22&type=Issues) `33`
+* [feature request](https://github.com/search?q=state%3Aopen+label%3A%22feature+request%22&type=Issues) `92K`
+* [feature-request](https://github.com/search?q=state%3Aopen+label%3A%22feature-request%22&type=Issues) `25K`
+* [more information required](https://github.com/search?q=state%3Aopen+label%3A%22more+information+required%22&type=Issues) `156`
 * [new feature](https://github.com/search?q=state%3Aopen+label%3A%22new+feature%22&type=Issues) `33K`
 * new feature 🎨
 * idea 🤔
@@ -344,6 +344,8 @@
 * engineering health 🛠
 * performance 🚀
 * mvp
+
+* [User Stories](https://github.com/search?q=state%3Aopen+label%3A%22User+Stories%22&type=Issues) `851`
 
 * core
 * Airtable Done
