@@ -159,22 +159,26 @@
 ### Area
 
 * [AWS](https://github.com/search?q=state%3Aopen+label%3A%22aws%22&type=Issues) `1K`
-* [algorithm](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues)
-* [frontend](https://github.com/search?q=state%3Aopen+label%3A%22frontend%22&type=Issues)
+* [algorithm](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues) `1K`
+* [frontend](https://github.com/search?q=state%3Aopen+label%3A%22frontend%22&type=Issues) `29K`
 * [front-end](https://github.com/search?q=state%3Aopen+label%3A%22FRONT-END%22&type=Issues) `7K`
-* [backend](https://github.com/search?q=state%3Aopen+label%3A%22backend%22&type=Issues)
+* [backend](https://github.com/search?q=state%3Aopen+label%3A%22backend%22&type=Issues) `27K`
 * [back-end](https://github.com/search?q=state%3Aopen+label%3A%22back-end%22&type=Issues) `5K`
-* [backlog](https://github.com/search?q=state%3Aopen+label%3A%22backlog%22&type=Issues)
+* [backlog](https://github.com/search?q=state%3Aopen+label%3A%22backlog%22&type=Issues) `25K`
 * [website](https://github.com/search?q=state%3Aopen+label%3A%22website%22&type=Issues) `26K`
 * [button](https://github.com/search?q=state%3Aopen+label%3A%22button%22&type=Issues)
-* [ui](https://github.com/search?q=state%3Aopen+label%3A%22ui%22&type=Issues)
-* [ux](https://github.com/search?q=state%3Aopen+label%3A%22ux%22&type=Issues)
+* [ui](https://github.com/search?q=state%3Aopen+label%3A%22ui%22&type=Issues) `30K`
+* [ux](https://github.com/search?q=state%3Aopen+label%3A%22ux%22&type=Issues) `13K`
 * [dependencies](https://github.com/search?p=99&q=state%3Aopen+label%3A%22javascript%22&type=Issues) `871K`
 * [software](https://github.com/search?q=state%3Aopen+label%3A%22software%22&type=Issues) `2K`
-* android
-* platform-android
-* windows
+* [android](https://github.com/search?q=state%3Aopen+label%3A%22android%22&type=Issues) `10K`
+* [platform-android](https://github.com/search?q=state%3Aopen+label%3A%22platform-android%22&type=Issues) `962`
+* [ios](https://github.com/search?q=state%3Aopen+label%3A%22ios%22&type=Issues) `7K`
+* [platform-ios](https://github.com/search?q=state%3Aopen+label%3A%22platform-ios%22&type=Issues) `848`
+* [windows](https://github.com/search?q=state%3Aopen+label%3A%22windows%22&type=Issues) `7K`
+* [platform-windows](https://github.com/search?q=state%3Aopen+label%3A%22platform-windows%22&type=Issues) `307`
 * [React](https://github.com/search?q=state%3Aopen+label%3A%22React%22&type=Issues) `5K`
+* [React.js](https://github.com/search?q=state%3Aopen+label%3A%22React.js%22&type=Issues) `106`
 * [svn](https://github.com/search?q=state%3Aopen+label%3A%22svn%22&type=Issues) `40`
 * [Node.js](https://github.com/search?q=state%3Aopen+label%3A%22NODE.JS%22&type=Issues) `1K`
 
@@ -251,11 +255,11 @@
 
 ## Impact
 
-* impact
-* impact high
-* impact medium
-* impact low
-* critical
+* [impact](https://github.com/search?q=state%3Aopen+label%3A%22impact%22&type=Issues) `235`
+* [impact high](https://github.com/search?q=state%3Aopen+label%3A%22impact+high%22&type=Issues) `323`
+* [impact medium](https://github.com/search?q=state%3Aopen+label%3A%22impact+medium%22&type=Issues) `418`
+* [impact low](https://github.com/search?q=state%3Aopen+label%3A%22impact+low%22&type=Issues) `435`
+* [critical](https://github.com/search?q=state%3Aopen+label%3A%22critical%22&type=Issues) `6K`
 
 ---
 
