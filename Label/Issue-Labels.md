@@ -323,7 +323,8 @@
 * untriaged
 * ready for review
 * [review](https://github.com/search?q=state%3Aopen+label%3A%22review%22&type=Issues) `7K`
-* reviewed
+* [reviewed](https://github.com/search?q=state%3Aopen+label%3A%22reviewed%22&type=Issues) `9K`
+* closed
 * [blocked](https://github.com/search?q=state%3Aopen+label%3A%22blocked%22&type=Issues) `9K`
 * blocked 🛑
 
