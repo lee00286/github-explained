@@ -297,24 +297,27 @@
 * [feature-request](https://github.com/search?q=state%3Aopen+label%3A%22feature-request%22&type=Issues) `25K`
 * [more information required](https://github.com/search?q=state%3Aopen+label%3A%22more+information+required%22&type=Issues) `156`
 * [new feature](https://github.com/search?q=state%3Aopen+label%3A%22new+feature%22&type=Issues) `33K`
-* new feature 🎨
-* idea 🤔
+* [new-feature](https://github.com/search?q=state%3Aopen+label%3A%22new-feature%22&type=Issues) `2K`
+* [idea](https://github.com/search?q=state%3Aopen+label%3A%22idea%22&type=Issues) `14K`
+* [idea 🤔](https://github.com/search?q=state%3Aopen+label%3A%22idea+%F0%9F%A4%94%22&type=Issues) `87`
 
 ### Question
 
-* question
+* [question](https://github.com/search?q=state%3Aopen+label%3A%22question%22&type=Issues) `193K`
 
 ---
 
 ## Issue Status
 
-* Always Open
-* Up for grabs
-* up-for-grabs
-* help wanted
-* help wanted 👋
+* [Open](https://github.com/search?q=state%3Aopen+label%3A%22Open%22&type=Issues) `1K`
+* [Always Open](https://github.com/search?q=state%3Aopen+label%3A%22Always+Open%22&type=Issues) `14`
+* [Up for grabs](https://github.com/search?q=state%3Aopen+label%3A%22Up+for+grabs%22&type=Issues) `3K`
+* [up-for-grabs](https://github.com/search?q=state%3Aopen+label%3A%22up-for-grabs%22&type=Issues) `6K`
+* [help wanted](https://github.com/search?q=state%3Aopen+label%3A%22help+wanted%22&type=Issues) `288K`
+* [help-wanted](https://github.com/search?q=state%3Aopen+label%3A%22help-wanted%22&type=Issues) `3K`
+* [help wanted 👋](https://github.com/search?q=state%3Aopen+label%3A%22help+wanted+%F0%9F%91%8B%22&type=Issues) `36`
 * [needs-triage](https://github.com/search?q=state%3Aopen+label%3A%22needs-triage%22&type=Issues) `2K`
-* enhancement
+* [enhancement](https://github.com/search?q=state%3Aopen+label%3A%22enhancement%22&type=Issues) `1M`
 * investigating
 * investigating 🕵️‍♂️
 * untriaged
