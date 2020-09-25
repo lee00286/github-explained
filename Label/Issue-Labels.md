@@ -9,6 +9,9 @@
 1. [Programmers](#programmers)
 1. [Testers](#testers)
 1. [Designers](#designers)
+1. [Priority](#priority)
+1. [Impact](#impact)
+1. [Difficulty](#difficulty)
 1. [Issue Purpose](#issue-purpose)
 1. [Issue Status](#issue-status)
 1. [Events](#Events)
@@ -240,9 +243,9 @@
 
 ## Priority
 
-* Priority: High
-* Priority: Medium
-* Priority: Low
+* [Priority: High](https://github.com/search?q=state%3Aopen+label%3A%22Priority%3A+High%22&type=Issues) `11K`
+* [Priority: Medium](https://github.com/search?q=state%3Aopen+label%3A%22Priority%3A+Medium%22&type=Issues) `14K`
+* [Priority: Low](https://github.com/search?q=state%3Aopen+label%3A%22Priority%3A+Low%22&type=Issues) `19K`
 * [priority](https://github.com/search?q=state%3Aopen+label%3A%22priority%22&type=Issues)
 * priority: high 🔥
 * priority: medium 👍
@@ -253,6 +256,8 @@
 * [to do](https://github.com/search?q=state%3Aopen+label%3A%22to+do%22&type=Issues) `13K`
 * [to-do](https://github.com/search?q=state%3Aopen+label%3A%22to-do%22&type=Issues) `2K`
 
+---
+
 ## Impact
 
 * [impact](https://github.com/search?q=state%3Aopen+label%3A%22impact%22&type=Issues) `235`
@@ -260,6 +265,14 @@
 * [impact medium](https://github.com/search?q=state%3Aopen+label%3A%22impact+medium%22&type=Issues) `418`
 * [impact low](https://github.com/search?q=state%3Aopen+label%3A%22impact+low%22&type=Issues) `435`
 * [critical](https://github.com/search?q=state%3Aopen+label%3A%22critical%22&type=Issues) `6K`
+
+---
+
+## Difficulty
+
+* [easy](https://github.com/search?q=state%3Aopen+label%3A%22easy%22&type=Issues) `10K`
+* [medium](https://github.com/search?q=state%3Aopen+label%3A%22medium%22&type=Issues) `14K`
+* [hard](https://github.com/search?q=state%3Aopen+label%3A%22hard%22&type=Issues) `3K`
 
 ---
 
@@ -315,7 +328,9 @@
 
 ## Events
 
-* Hacktoberfest
+* [Hacktoberfest](https://github.com/search?q=state%3Aopen+label%3A%22Hacktoberfest%22&type=Issues) `32K`
+* [Hacktoberfest2020](https://github.com/search?q=state%3Aopen+label%3A%22Hacktoberfest2020%22&type=Issues) `98`
+* [Hacktoberfest2019](https://github.com/search?q=state%3Aopen+label%3A%22Hacktoberfest2019%22&type=Issues) `57`
 * [hackathon](https://github.com/search?q=state%3Aopen+label%3A%22hackathon%22&type=Issues) `1K`
 
 ---
@@ -327,26 +342,29 @@
 * [Google](https://github.com/search?q=state%3Aopen+label%3A%22google%22&type=Issues) `229`
 * [Twitter](https://github.com/search?q=state%3Aopen+label%3A%22twitter%22&type=Issues) `2K`
 * [facebook](https://github.com/search?q=state%3Aopen+label%3A%22facebook%22&type=Issues) `477`
+* [GitHub](https://github.com/search?q=state%3Aopen+label%3A%22github%22&type=Issues) `950`
+* [YouTube](https://github.com/search?q=state%3Aopen+label%3A%22youtube%22&type=Issues) `200`
+* [Wiki](https://github.com/search?q=state%3Aopen+label%3A%22wiki%22&type=Issues) `1K`
 
 ---
 
 ## etc or un-categorized
 
-* Epic
+* [Epic](https://github.com/search?q=state%3Aopen+label%3A%22epic%22&type=Issues) `46K`
 
 * gh-actions
-* workflow
+* [workflow](https://github.com/search?q=state%3Aopen+label%3A%22workflow%22&type=Issues) `983`
 
-* breaking
-* refactor
+* [breaking](https://github.com/search?q=state%3Aopen+label%3A%22breaking%22&type=Issues) `1K`
+* [refactor](https://github.com/search?q=state%3Aopen+label%3A%22refactor%22&type=Issues) `14K`
 
-* greenkeeper
+* [greenkeeper](https://github.com/search?q=state%3Aopen+label%3A%22greenkeeper%22&type=Issues) `193K`
 
 * 3rd party integration 🤝
-* accessibility ♿️
+* [accessibility](https://github.com/search?q=state%3Aopen+label%3A%22accessibility%22&type=Issues) `4K`
 
 * engineering health 🛠
-* performance 🚀
+* [performance 🚀](https://github.com/search?q=state%3Aopen+label%3A%22performance+%F0%9F%9A%80%22&type=Issues) `34`
 * mvp
 
 * [User Stories](https://github.com/search?q=state%3Aopen+label%3A%22User+Stories%22&type=Issues) `851`
