@@ -369,7 +369,7 @@
 
 * engineering health 🛠
 * [performance 🚀](https://github.com/search?q=state%3Aopen+label%3A%22performance+%F0%9F%9A%80%22&type=Issues) `34`
-* mvp
+* [mvp](https://github.com/search?q=state%3Aopen+label%3A%22mvp%22&type=Issues) `4K`
 
 * [User Stories](https://github.com/search?q=state%3Aopen+label%3A%22User+Stories%22&type=Issues) `851`
 
