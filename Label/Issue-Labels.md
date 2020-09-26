@@ -373,11 +373,11 @@
 
 * [User Stories](https://github.com/search?q=state%3Aopen+label%3A%22User+Stories%22&type=Issues) `851`
 
-* core
+* [core](https://github.com/search?q=state%3Aopen+label%3A%22core%22&type=Issues) `16K`
 * Airtable Done
 * [content](https://github.com/search?q=state%3Aopen+label%3A%22content%22&type=Issues) `8K`
 
-* CLI
+* [CLI](https://github.com/search?q=state%3Aopen+label%3A%22CLI%22&type=Issues) `4K`
 
 * [client](https://github.com/search?q=state%3Aopen+label%3A%22client%22&type=Issues) `11K`
 * [Authentication](https://github.com/search?q=state%3Aopen+label%3A%22Authentication%22&type=Issues) `733`
