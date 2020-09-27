@@ -34,6 +34,7 @@ Before you to contribute to an open-source project, please read through readme, 
 
 * [Action and Workflows](/Actions/Action-and-Workflows.md)
 * [Useful Actions](/Actions/Useful-Actions.md)
+* Bots
 
 ---
 
