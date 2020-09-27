@@ -10,6 +10,10 @@
 
 ---
 
+## What is GitHub
+
+---
+
 ## Build Project
 
 ### Requirement Before the Contribution
