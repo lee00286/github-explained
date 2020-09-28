@@ -223,6 +223,7 @@
 ## Testers
 
 * [Bug](https://github.com/search?q=state%3Aopen+label%3A%22algorithm%22&type=Issues) `1K`
+* [Bugs](https://github.com/search?q=state%3Aopen+label%3A%22Bugs%22&type=Issues) `1K`
 * [unconfirmed-bug](https://github.com/search?q=state%3Aopen+label%3A%22unconfirmed-bug%22&type=Issues) `154`
 * [confirmed-bug](https://github.com/search?q=state%3Aopen+label%3A%22confirmed-bug%22&type=Issues) `221`
 * [test](https://github.com/search?q=state%3Aopen+label%3A%22test%22&type=Issues) `12K`
@@ -318,13 +319,14 @@
 * [help wanted 👋](https://github.com/search?q=state%3Aopen+label%3A%22help+wanted+%F0%9F%91%8B%22&type=Issues) `36`
 * [needs-triage](https://github.com/search?q=state%3Aopen+label%3A%22needs-triage%22&type=Issues) `2K`
 * [enhancement](https://github.com/search?q=state%3Aopen+label%3A%22enhancement%22&type=Issues) `1M`
-* investigating
+* [investigating](https://github.com/search?q=state%3Aopen+label%3A%22investigating%22&type=Issues) `1K`
 * investigating 🕵️‍♂️
-* untriaged
-* ready for review
+* [untriaged](https://github.com/search?q=state%3Aopen+label%3A%22untriaged%22&type=Issues) `1K`
+* [ready](https://github.com/search?q=state%3Aopen+label%3A%22ready%22&type=Issues) `33K`
+* [ready for review](https://github.com/search?q=state%3Aopen+label%3A%22ready+for+review%22&type=Issues) `1K`
 * [review](https://github.com/search?q=state%3Aopen+label%3A%22review%22&type=Issues) `7K`
 * [reviewed](https://github.com/search?q=state%3Aopen+label%3A%22reviewed%22&type=Issues) `9K`
-* closed
+* [closed](https://github.com/search?q=state%3Aopen+label%3A%22closed%22&type=Issues) `565`
 * [blocked](https://github.com/search?q=state%3Aopen+label%3A%22blocked%22&type=Issues) `9K`
 * blocked 🛑
 
@@ -356,7 +358,7 @@
 
 * [Epic](https://github.com/search?q=state%3Aopen+label%3A%22epic%22&type=Issues) `46K`
 
-* gh-actions
+* [gh-actions](https://github.com/search?q=state%3Aopen+label%3A%22gh-actions%22&type=Issues) `7`
 * [workflow](https://github.com/search?q=state%3Aopen+label%3A%22workflow%22&type=Issues) `983`
 
 * [breaking](https://github.com/search?q=state%3Aopen+label%3A%22breaking%22&type=Issues) `1K`
