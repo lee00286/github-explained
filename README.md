@@ -79,5 +79,14 @@ If the badge is not in your README.md, please add license badge in your markdown
 
 ## Tips
 
-* [Font Awesome](/Tips/Font-Awesome.md)
-* NPM
+### [Font Awesome](/Tips/Font-Awesome.md)
+
+### [NPM](https://npm.community/)
+
+NPM is the largest software registry with 800,000 code packages. When you are sharing the software in the open-source, you would use npm.
+
+[Configuring NPM](https://docs.github.com/en/free-pro-team@latest/packages/using-github-packages-with-your-projects-ecosystem/configuring-npm-for-use-with-github-packages)
+
+```
+$ npm install
+```
