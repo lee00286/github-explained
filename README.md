@@ -6,6 +6,7 @@
 1. [Action and Workflows](#action-and-workflows)
 1. [License](#license)
 1. [Label](#label)
+1. [Open Source Project](#open-source-project)
 1. [Tips](#tips)
 
 ---
@@ -91,4 +92,4 @@ NPM is the largest software registry with 800,000 code packages. When you are sh
 $ npm install
 ```
 
-### Open Source Apps
+### Open Source iOS Apps
