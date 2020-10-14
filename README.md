@@ -98,3 +98,5 @@ NPM is the largest software registry with 800,000 code packages. When you are sh
 ```
 $ npm install
 ```
+
+### Information Packets
